@@ -68,7 +68,7 @@
                       <a href="https://www.instagram.com/akil.ux/" target="_blank">Instagram</a>
                   </li>
                   <li>
-                      <a href="music.php">Jams</a>
+                      <a href="music.php">Work Jams</a>
                   </li>
               </ul>
           </div>

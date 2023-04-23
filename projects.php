@@ -101,11 +101,12 @@
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/inboxhero-april.png" class="img-fluid" alt="Rapide KDS">
-          <h4>InboxHero</h4>
-          <p>Multipurpose WordPress theme that helps you build any corporate website.</p>
+          <h4>Nimbus</h4>
+          <p>Nimbus is a style guide that establishes a shared vocabulary for the UI patterns used in InboxHero.</p>
           <ol class="breadcrumb">
-              <li class="breadcrumb-item">SaaS</li>    
-              <li class="breadcrumb-item">UX</li>       
+              <li class="breadcrumb-item">Style guide</li>    
+              <li class="breadcrumb-item">UI patterns</li>
+              <li class="breadcrumb-item">UXpin</li>       
           </ol>
           <!-- <a href="x-rapide.php" class="btn-naked position-relative">View case study</a> -->
           <a style="color: #ccc;" class="disabled">Coming soon..</a>
