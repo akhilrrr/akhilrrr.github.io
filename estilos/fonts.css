@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Cor-B;
+    src: url(../dependencias/fonts/CormorantGaramond-Bold.ttf);
+}
+@font-face {
+    font-family: Cor-S;
+    src: url(../dependencias/fonts/CormorantGaramond-SemiBold.ttf);
+}
+@font-face {
+    font-family: Cor-R;
+    src: url(../dependencias/fonts/CormorantGaramond-Regular.ttf);
+}
+@font-face {
+    font-family: Pop-B;
+    src: url(../dependencias/fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: Pop-S;
+    src: url(../dependencias/fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: Pop-R;
+    src: url(../dependencias/fonts/Poppins-Regular.ttf);
+}
+/*  */
+/*  */
+/*  */
+@font-face {
+    font-family: PlexIBM-Bo;
+    src: url(../dependencias/fonts/IBMPlexMono-Bold.ttf);
+}
+@font-face {
+    font-family: PlexIBM-ExLi;
+    src: url(../dependencias/fonts/IBMPlexMono-ExtraLight.ttf);
+}
+@font-face {
+    font-family: PlexIBM-It;
+    src: url(../dependencias/fonts/IBMPlexMono-Italic.ttf);
+}
+@font-face {
+    font-family: PlexIBM-Li;
+    src: url(../dependencias/fonts/IBMPlexMono-Light.ttf);
+}
+@font-face {
+    font-family: PlexIBM-Me;
+    src: url(../dependencias/fonts/IBMPlexMono-Medium.ttf);
+}
+@font-face {
+    font-family: PlexIBM-Re;
+    src: url(../dependencias/fonts/IBMPlexMono-Regular.ttf);
+}
+@font-face {
+    font-family: PlexIBM-SeBo;
+    src: url(../dependencias/fonts/IBMPlexMono-SemiBold.ttf);
+}
+@font-face {
+    font-family: PlexIBM-Th;
+    src: url(../dependencias/fonts/IBMPlexMono-Thin.ttf);
+}
