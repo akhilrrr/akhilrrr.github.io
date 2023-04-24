@@ -54,6 +54,19 @@
         </div>
       </div>
       <!--  -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+        <div class="projindi-grid22">
+          <img src="./imagen/project-main/caracal-april.png" class="img-fluid" alt="SoundCloud">
+          <h4>Caracal</h4>
+          <p>Case study on rebranding Caracal, a digital marketing agency based in India.</p>
+          <ol class="breadcrumb">
+              <li class="breadcrumb-item">Branding</li>  
+              <li class="breadcrumb-item">Adobe Illustrator</li>
+          </ol>
+          <a href="x-caracal.php" class="btn-naked position-relative">explore project</a>
+        </div>
+      </div>
+      <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="SoundCloud">
@@ -67,19 +80,6 @@
           </ol>
           <!-- <a href="x-alnassr.php" class="btn-naked position-relative">explore project</a> -->
           <a style="color: #ccc;" class="disabled">Coming soon..</a>
-        </div>
-      </div>
-      <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
-        <div class="projindi-grid22">
-          <img src="./imagen/project-main/caracal-april.png" class="img-fluid" alt="SoundCloud">
-          <h4>Caracal</h4>
-          <p>Case study on rebranding Caracal, a digital marketing agency based in India.</p>
-          <ol class="breadcrumb">
-              <li class="breadcrumb-item">Branding</li>  
-              <li class="breadcrumb-item">Adobe Illustrator</li>
-          </ol>
-          <a href="x-caracal.php" class="btn-naked position-relative">explore project</a>
         </div>
       </div>
       <!--  -->
@@ -102,7 +102,7 @@
         <div class="projindi-grid22">
           <img src="./imagen/project-main/inboxhero-april.png" class="img-fluid" alt="Rapide KDS">
           <h4>Nimbus</h4>
-          <p>Nimbus is a style guide that establishes a shared vocabulary for the UI patterns used in InboxHero.</p>
+          <p>Nimbus is a email marketing platform that provides businesses with an easy-to-use tool for creating and managing email marketing campaigns.</p>
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Style guide</li>    
               <li class="breadcrumb-item">UI patterns</li>

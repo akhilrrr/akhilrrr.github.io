@@ -12,13 +12,10 @@
 ?>
 
 <section class="head-section">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <h1><img src="./imagen/gif/money-with-wings.png" alt="Akhil Remashan" class="head-emoji"> Gig index</h1>
-      </div>
-      <div class="col-md-1">
+      <div class="col-md-12">
+        <h1><span class="iHeadBold underline-double">Gig index</span> </h1>
       </div>
     </div>
   </div>
@@ -37,13 +34,9 @@
 </section> -->
 <!--  -->
 <section class="section-leaf">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <!-- <div class="side-head">
-          <h4>Projects</h4>
-        </div> -->
+      <div class="col-md-12">
         <!--  -->
         <div class="side-para url-list-table table-responsive">
 
@@ -55,9 +48,9 @@
             <li><p>🟤 Dormant </p></li>
           </ul>
           <!--  -->
-          <ul style="display: flex; list-style-type: none; float: right;">
+          <!-- <ul style="display: flex; list-style-type: none; float: right;">
             <li><p>✨ Case study included</p></li>
-          </ul>
+          </ul> -->
           
           <table class="table table-hover">
           <thead>
@@ -71,10 +64,10 @@
           </thead>
           <tbody>
             <tr>
-              <td>Corschame ✨</td>
-              <td>Hotels & Resorts</td>
+              <td>Nimbus</td>
+              <td>Design System</td>
               <td>🟡</td>
-              <td class="hide-prop">2022</td>
+              <td class="hide-prop">2023</td>
               <td>
                 <!-- <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?node-id=60%3A30&viewport=726%2C1311%2C0.8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=60%3A30&disable-default-keyboard-nav=1&hide-ui=1" target="_blank">
                   <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
@@ -83,9 +76,32 @@
               </td>
             </tr>
             <tr>
+              <td>Al Nassr Virtual World</td>
+              <td>Virtual Reality</td>
+              <td>🟡</td>
+              <td class="hide-prop">2023</td>
+              <td>
+                <!-- <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?node-id=60%3A30&viewport=726%2C1311%2C0.8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=60%3A30&disable-default-keyboard-nav=1&hide-ui=1" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a> -->
+                ⋯
+              </td>
+            </tr>
+            <tr>
+              <td>Corschame Holiday</td>
+              <td>Hotels & Resorts</td>
+              <td>🟢</td>
+              <td class="hide-prop">2022</td>
+              <td>
+                <a href="x-corschame.php" target="_blank">
+                  <img src="./imagen/icons/description.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <tr>
               <td>Ashgabat</td>
               <td>WordPress Template</td>
-              <td>🟡</td>
+              <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
                 <!-- <a href="https://zeroheight.com/8d81a0e19" target="_blank">
@@ -95,8 +111,8 @@
               </td>
             </tr>
             <tr>
-              <td>Aubi ✨</td>
-              <td>Application (WearOS)</td>
+              <td>Aubi</td>
+              <td>WearOS</td>
               <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
@@ -106,7 +122,7 @@
               </td>
             </tr>
             <tr>
-              <td>Caracal Rebranding ✨</td>
+              <td>Caracal Rebranding</td>
               <td>Online Publishing</td>
               <td>🟢</td>
               <td class="hide-prop">2022</td>
@@ -119,7 +135,7 @@
             <tr>
               <td>Manorama Online</td>
               <td>News Website</td>
-              <td>🟡</td>
+              <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
                 <a href="https://www.manoramaonline.com/" target="_blank">
@@ -139,7 +155,7 @@
               </td>
             </tr>
             <tr>
-              <td>Rapide KDS ✨</td>
+              <td>Rapide KDS</td>
               <td>Software Product</td>
               <td>🟢</td>
               <td class="hide-prop">2022</td>
@@ -172,7 +188,7 @@
               </td>
             </tr>
             <tr>
-              <td>SoundCloud ✨</td>
+              <td>SoundCloud</td>
               <td>Music Platform</td>
               <td>🟢</td>
               <td class="hide-prop">2021</td>
@@ -194,7 +210,7 @@
               </td>
             </tr>
             <tr>
-              <td>Infy.tv ✨</td>
+              <td>Infy.tv</td>
               <td>Adtech Platform</td>
               <td>🟢</td>
               <td class="hide-prop">2021</td>
@@ -274,7 +290,7 @@
               </td>
             </tr>
             <tr>
-              <td>OnCourse CRM ✨</td>
+              <td>OnCourse CRM</td>
               <td>Sales CRM</td>
               <td>🟢</td>
               <td class="hide-prop">2019</td>
@@ -294,8 +310,8 @@
               <td class="hide-prop">2019</td>
               <td>
                 <a href="404.php" target="_blank">
-                  <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
-                </a> 
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
               </td>
             </tr>
             <tr>
@@ -354,7 +370,7 @@
               </td>
             </tr>
             <tr>
-              <td>Atmof architects</td>
+              <td>Atmof Architects</td>
               <td>Marketing Website</td>
               <td>🟢</td>
               <td class="hide-prop">2018</td>
@@ -483,7 +499,6 @@
           </div>
         
       </div>
-      <div class="col-md-1"></div>
     </div>
     <!--  -->
  
