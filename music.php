@@ -6,13 +6,11 @@
 ?>
 
 <section class="head-section">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <h1><img src="./imagen/gif/radio.png" alt="Akhil Remashan" class="head-emoji"> Work jams </h1>
+      <div class="col-md-12">
+        <h1>Work jams </h1>
       </div>
-      <div class="col-md-1"></div>
     </div>
   </div>
 </section>
@@ -30,15 +28,13 @@
 </section> -->
 <!--  -->
 <section class="section-leaf">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
+      <div class="col-md-12">
         <div class="side-para">
           <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3mhd6UXYCQYLcTGz80UWox?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
         </div>
       </div>
-      <div class="col-md-1"></div>
     </div>
     <!--  -->
 

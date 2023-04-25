@@ -9,7 +9,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1>About this website<span class="iHeadBold underline-double">Gig index</span> </h1>
+        <h1>About this website</h1>
       </div>
     </div>
   </div>

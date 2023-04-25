@@ -43,7 +43,7 @@
           <h4><u>Understanding problem space</u></h4>
         </div>
         <div class="side-para">
-            <p>The app should provide guests with a seamless and convenient way to book rooms, view amenities and services, explore nearby attractions, and receive personalized recommendations and offers. The current situation for guests is that they may need help navigating the different amenities and services offered by the hotels and resorts, making reservations for dining or spa services, or finding information on local attractions. Therefore, the mobile app must provide an intuitive and easy-to-use interface that allows guests to quickly and easily book rooms, explore local attractions, and access information on amenities and services. The app must also be designed with the guest's needs and preferences in mind, offering personalized recommendations and offers based on their past bookings and preferences. Overall, the goal of the user experience design mobile app case study for "Corschame" is to create a mobile app that enhances the guest experience, increases guest satisfaction, and drives more bookings and revenue for the hotels and resorts.</p>
+            <p>The app must offer guests a smooth and convenient way to book rooms, access amenities, and services, discover local attractions, and receive tailored recommendations and deals. Guests face challenges navigating through different services, reserving dining or spa services, or finding information on nearby attractions. Therefore, the mobile app must have a user-friendly interface that allows guests to effortlessly book rooms, explore local attractions, and access information on amenities and services. The app must also cater to individual preferences by providing personalized recommendations and offers based on past bookings and preferences. The ultimate objective of the UX design for the Corschame Holiday mobile app is to enrich the guest experience, enhance satisfaction, and increase bookings and revenue for hotels and resorts.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -57,28 +57,35 @@
           <h4><u>Market Data & Survey</u></h4>
         </div>
         <div class="side-para">
-        <ul>
-              <li><p>According to a study by Statista, the revenue of the UK hotel industry is projected to reach £22.4 billion in 2022, up from £20.8 billion in 2020.</p></li>
-              <li><p>The use of mobile devices for travel bookings is on the rise. According to a survey by eMarketer, 52% of UK travelers used their mobile devices to book travel in 2020, up from 44% in 2018.</p></li>
-              <li><p>The COVID-19 pandemic has significantly impacted the hotel industry. A report by McKinsey & Company found that the UK hotel industry experienced a decline of up to 80% in revenue per available room (RevPAR) in 2020.</p></li>
-              <li><p>Sustainability is becoming more important for travelers. A survey by Booking.com found that 70% of global 
-          </ul>
+            <p>The hospitality industry is one of the world's most dynamic and rapidly changing industries. With the rise of technology, changing consumer preferences, and the impact of global events, hoteliers are constantly adapting to stay ahead of the curve. Understanding the latest trends and developments is crucial to success in this context. Here are some key statistics and insights to help you stay informed and make data-driven decisions for your hotel business:</p>
+            <div class="row">
+              <div class="col-md-6 mb-4">
+                <img src="./imagen/proj-inner/corschame/facto1.png" class="img-fluid" alt="Corschame" style="width: 100%;">
+              </div>
+              <div class="col-md-6 mb-4">
+                <img src="./imagen/proj-inner/corschame/facto2.png" class="img-fluid" alt="Corschame" style="width: 100%;">
+              </div>
+              <div class="col-md-6">
+                <img src="./imagen/proj-inner/corschame/facto3.png" class="img-fluid" alt="Corschame" style="width: 100%;">
+              </div>
+              <div class="col-md-6">
+                <img src="./imagen/proj-inner/corschame/facto4.png" class="img-fluid" alt="Corschame" style="width: 100%;">
+              </div>
+            </div>
+            <div class="aubi-uresear">
+              <p>Based on the user survey results, it was found that 72% of the respondents have previously stayed at a Corschame hotel or resort. Furthermore, 58% of the participants expressed a strong interest in using a mobile app for booking and managing their stay. The most popular features that users would like to see in the Corschame mobile app include room booking (92%), room service ordering (84%), and concierge services (67%).</p>
+              <p>Based on the stakeholder survey, the Corschame mobile app has three critical business goals:</p>
+              <ul>
+                  <li><p>Increasing revenue through direct bookings (92%)</p></li>
+                  <li><p>Improving guest satisfaction and loyalty (84%)</p></li>
+                  <li><p>Streamlining operational processes (72%)</p></li>
+              </ul>
+              <p>However, stakeholders also anticipate challenges in developing and launching the app, including seamless integration with existing hotel technology systems (88%), balancing user experience with security and privacy concerns (76%), and meeting user demands a personalized and customizable experience (69%). To measure the success of the app, stakeholders prioritize an increase in direct bookings and revenue (92%), positive guest feedback and reviews (84%), and higher guest retention rates and loyalty program participation (72%).</p>
+            </div>
         </div>
         </div>
       <div class="col-md-1"></div>
     </div>
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-para aubi-uresear">
-          <p>The user survey results indicate that 72% of the respondents have stayed at a Corschame hotel or resort, and 58% are very likely to use a mobile app for booking and managing their stay. The top features that users would like to see in a Corschame mobile app are room booking (92%), room service ordering (84%), and concierge services (67%).</p>
-          <p>The stakeholder survey results show that the critical business goals for Corschame's mobile app are to increase revenue through direct bookings (92%), improve guest satisfaction and loyalty (84%), and streamline operational processes (72%). The main challenges foreseen in developing and launching a successful Corschame mobile app are ensuring seamless integration with existing hotel technology systems (88%), balancing user experience with security and privacy concerns (76%), and meeting user demands a personalized and customizable experience (69%). The most popular ways to measure the success of the Corschame mobile app are an increase in direct bookings and revenue (92%), positive guest feedback and reviews (84%), and higher guest retention rates and loyalty program participation (72%).</p>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
     <!--  -->
     <div class="row">
       <div class="col-md-1"></div>
@@ -87,14 +94,14 @@
           <h4><u>Competitor Analysis</u></h4>
         </div>
         <div class="side-para">
-            <p>To identify potential areas for improvement and differentiation for the Corschame mobile app, a competitor analysis was conducted to evaluate the mobile app user experiences of other luxury hotel and resort chains in the UK market.</p>
+            <p>To identify potential areas for improvement and differentiation for the Corschame mobile app, a competitor analysis was conducted to evaluate the mobile app user experiences of other luxury hotel and resort chains in the UK and EU markets.</p>
             <p>The analysis revealed the following key findings:</p>
             <div style="text-align: center;">
               <img src="./imagen/proj-inner/corschame/compe.png" class="img-fluid" alt="Corschame" style="width: 100%; margin-top: 30px; margin-bottom: 40px">
             </div>
             <ul>
-              <li><p><b><u>User-friendly and visually appealing interfaces:</u></b> All competitors' mobile apps had clean interfaces with easy navigation and intuitive designs. The use of high-quality imagery and color schemes consistent with their brand identities was evident in all apps.</p></li>
-              <li><p><b><u>Robust features for booking and managing stays:</u></b> All competitors' mobile apps offered comprehensive features for securing and managing visits, including the ability to search and book rooms, view reservation details, modify or cancel reservations, and access loyalty program information.</p></li>
+              <li><p><b><u>User-friendly and visually appealing interfaces:</u></b> All competitors mobile apps had clean interfaces with easy navigation and intuitive designs. The use of high-quality imagery and color schemes consistent with their brand identities was evident in all apps.</p></li>
+              <li><p><b><u>Robust features for booking and managing stays:</u></b> All competitors mobile apps offered comprehensive features for securing and managing visits, including the ability to search and book rooms, view reservation details, modify or cancel reservations, and access loyalty program information.</p></li>
               <li><p><b><u>Personalized experiences and services:</u></b> Some competitors offered personalized experiences and services, such as the ability to customize room preferences and make special requests and recommendations for local activities and attractions based on user preferences and previous bookings.</p></li>
               <li><p><b><u>Seamless integration with other hotel technology systems:</u></b> Some competitors had mobile apps seamlessly integrated with other hotel technology systems, such as mobile key access and in-room entertainment systems.</p></li>
               <li><p><b><u>In-app messaging and support:</u></b> Most competitors had in-app messaging and support features that allowed users to communicate with hotel staff and receive assistance with any issues or requests.</p></li>
@@ -113,20 +120,10 @@
           <h4><u>User Interviews & Comments</u></h4>
         </div>
         <div class="side-para">
-            <p>After conducting user interviews for the mobile app user experience design case study for "Corschame", a luxury hotel & resort chain based in the UK, the following summary of key comments and suggestions emerged:</p>
-            <ul>
-              <li><p>Users typically use mobile apps to search for hotels in their preferred location, compare prices, and read reviews from other travelers. They also like apps that allow them to book their hotel stay and view their reservations all in one place</p></li>
-              <li><p>Users have used various mobile apps in the past to book hotels, but they have encountered difficulties navigating some of them or finding enough information about the hotels or the booking process. They appreciate apps with a user-friendly interface and those that allow them to save their favorite hotels for future trips.</p></li>
-              <li><p>When staying at a luxury hotel or resort, users expect access to high-quality amenities such as restaurants, room service, luxurious bedding and bath products, on-site spas, fitness centers, and pools. They also value easy-to-use technology features, such as mobile apps for ordering room service or requesting housekeeping.</p></li>
-              <li><p>Users would like to see a mobile app for a luxury hotel or resort chain like Corschame that makes it easy to browse through different hotels and resorts, view pictures and videos of the rooms and amenities, and read reviews from other travelers. They also expect the app to have features like a virtual concierge or personalized recommendations based on their preferences and past stays, as well as an easy booking process and the ability to view and modify their reservations.</p></li>
-            </ul>
+          <p>After conducting user interviews for the mobile app user experience design case study for "Corschame", a luxury hotel & resort chain based in the UK, the following summary of key comments and suggestions emerged:</p>
+          <img src="./imagen/proj-inner/corschame/survey.png" class="img-fluid mb-3 mt-3" alt="Corschame" style="width: 100%;">
           <p>Additional suggestions include incorporating a loyalty program that rewards frequent guests with exclusive perks and discounts, providing real-time flight information and transportation options for getting to and from the hotel, and adding a social aspect to the app where users can connect with other guests and share recommendations and experiences.</p>
         </div>
-      </div>
-      <div class="col-md-1"></div>
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-          <img src="./imagen/proj-inner/corschame/survey.jpg" class="img-fluid" alt="Corschame" style="width: 100%;">
       </div>
       <div class="col-md-1"></div>
     </div>
@@ -136,7 +133,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>User Persona</u></h4>
+          <h4><u>Proto-persona</u></h4>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -262,9 +259,9 @@
         <div class="side-para">
         <p>Wireframe sketch could help designers and stakeholders visualize the website's structure and layout, plan the user flow, and experiment with different features and layouts to create a user-friendly website that reflects Corschame's luxury brand and unique vacation experiences.</p>
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 5px;" width="" height="" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0j4YJ2ucy8kjkAu78YItFZ%2FPROJECTSAR%3Fpage-id%3D0%253A1%26node-id%3D262-651%26viewport%3D663%252C326%252C0.29%26scaling%3Dscale-down%26starting-point-node-id%3D262%253A651&hide-ui=1" allowfullscreen></iframe>
+          <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 5px;" width="" height="" src="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?page-id=0%3A1&node-id=152-129&scaling=min-zoom&starting-point-node-id=262%3A651&hide-ui=1" allowfullscreen></iframe>
         </div>
-        <a href="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0j4YJ2ucy8kjkAu78YItFZ%2FPROJECTSAR%3Fpage-id%3D0%253A1%26node-id%3D262-651%26viewport%3D663%252C326%252C0.29%26scaling%3Dscale-down%26starting-point-node-id%3D262%253A651&hide-ui=1" class="clickable-image-preview" tar target="_blank" style="margin-top: 15px;
+        <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?page-id=0%3A1&node-id=152-129&scaling=min-zoom&starting-point-node-id=262%3A651&hide-ui=1" class="clickable-image-preview" tar target="_blank" style="margin-top: 15px;
                margin-bottom: 0px;
                text-align: center;
                display: grid;
