@@ -121,7 +121,7 @@
         </div>
         <div class="side-para">
           <p>After conducting user interviews for the mobile app user experience design case study for "Corschame", a luxury hotel & resort chain based in the UK, the following summary of key comments and suggestions emerged:</p>
-          <img src="./imagen/proj-inner/corschame/survey.png" class="img-fluid mb-3 mt-3" alt="Corschame" style="width: 100%;">
+          <img src="./imagen/proj-inner/corschame/survey.png" class="img-fluid mb-3" alt="Corschame" style="width: 100%;">
           <p>Additional suggestions include incorporating a loyalty program that rewards frequent guests with exclusive perks and discounts, providing real-time flight information and transportation options for getting to and from the hotel, and adding a social aspect to the app where users can connect with other guests and share recommendations and experiences.</p>
         </div>
       </div>
@@ -133,51 +133,60 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Proto-persona</u></h4>
+          <h4 class="mb-4"><u>Proto-personas</u></h4>
         </div>
       </div>
       <div class="col-md-1"></div>
       <!--  -->
       <div class="col-md-1"></div>
       <div class="col-md-10">
-        <div class="side-para corshame-persona-grid">
-            <img src="./imagen/proj-inner/corschame/briefcase.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-            <h4>Business Traveler</h4>
-            <ul>
-              <li><p><b><u>Needs:</u></b> A seamless and efficient booking process, access to hotel amenities such as conference rooms, and a personalized experience that caters to their specific business needs.</p></li>
-              <li><p><b><u>Pain Points:</u></b> Limited time to plan and book accommodations, difficulty finding a hotel that meets their specific business requirements, and the need for reliable Wi-Fi and other business-related services.</p></li>
-              <li><p><b><u>Preferences:</u></b> A streamlined and intuitive user interface, access to local restaurant and transportation recommendations, and the ability to quickly and easily access important information about their stay.</p></li>
-            </ul>
+        <div class="container" style="padding-left: 0px; padding-right: 0px;">
+        <div class="row" style="margin-bottom: 0px;">
+            <div class="col-md-6">
+              <div class="side-para corshame-persona-grid">
+                  <img src="./imagen/proj-inner/corschame/briefcase.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
+                  <h4>Business Traveler</h4>
+                  <ul>
+                    <li><p><b><u>Needs:</u></b> A seamless and efficient booking process, access to hotel amenities such as conference rooms, and a personalized experience that caters to their specific business needs.</p></li>
+                    <li><p><b><u>Pain Points:</u></b> Limited time to plan and book accommodations, difficulty finding a hotel that meets their specific business requirements, and the need for reliable Wi-Fi and other business-related services.</p></li>
+                    <li><p><b><u>Preferences:</u></b> A streamlined and intuitive user interface, access to local restaurant and transportation recommendations, and the ability to quickly and easily access important information about their stay.</p></li>
+                  </ul>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="side-para corshame-persona-grid">
+                  <img src="./imagen/proj-inner/corschame/sunglasses.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
+                  <h4>Leisure Traveler</h4>
+                  <ul>
+                    <li><p><b><u>Needs:</u></b> A relaxing and stress-free vacation experience, access to information about local attractions and events, and the ability to customize their stay to meet their specific preferences.</p></li>
+                    <li><p><b><u>Pain Points:</u></b> Difficulty finding accommodations that meet their specific needs and preferences, unexpected fees or charges, and difficulty navigating an unfamiliar city.</p></li>
+                    <li><p><b><u>Preferences:</u></b> A visually appealing and user-friendly interface, the ability to book activities and reservations directly through the app, and personalized recommendations based on their interests.</p></li>
+                  </ul>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="side-para corshame-persona-grid">
+                  <img src="./imagen/proj-inner/corschame/balloon.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
+                  <h4>Event Planner</h4>
+                  <ul>
+                    <li><p><b><u>Needs:</u></b> Access to a comprehensive list of event spaces and services, the ability to manage multiple events and bookings at once, and real-time communication with hotel staff.</p></li>
+                    <li><p><b><u>Pain Points:</u></b> Difficulty coordinating with multiple vendors and services, limited availability of event spaces, and unexpected fees or charges.</p></li>
+                    <li><p><b><u>Preferences:</u></b> A robust and customizable event management system, the ability to communicate directly with hotel staff and vendors, and detailed information about available event spaces and services.</p></li>
+                  </ul>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="side-para corshame-persona-grid">
+                  <img src="./imagen/proj-inner/corschame/cup.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
+                  <h4>Luxury Traveler</h4>
+                  <ul>
+                    <li><p><b><u>Needs:</u></b> A high-end and personalized experience, access to exclusive amenities and services, and the ability to customize their stay to meet their specific preferences.</p></li>
+                    <li><p><b><u>Pain Points:</u></b> Limited availability of luxury accommodations, unexpected fees or charges, and difficulty finding accommodations that meet their specific needs and preferences.</p></li>
+                    <li><p><b><u>Preferences:</u></b> A visually stunning and easy-to-use interface, access to exclusive amenities and services such as private dining and spa treatments, and personalized recommendations.</p></li>
+                  </ul>
+              </div>
+            </div>
         </div>
-        <!--  -->
-        <div class="side-para corshame-persona-grid">
-            <img src="./imagen/proj-inner/corschame/sunglasses.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-            <h4>Leisure Traveler</h4>
-            <ul>
-              <li><p><b><u>Needs:</u></b> A relaxing and stress-free vacation experience, access to information about local attractions and events, and the ability to customize their stay to meet their specific preferences.</p></li>
-              <li><p><b><u>Pain Points:</u></b> Difficulty finding accommodations that meet their specific needs and preferences, unexpected fees or charges, and difficulty navigating an unfamiliar city.</p></li>
-              <li><p><b><u>Preferences:</u></b> A visually appealing and user-friendly interface, the ability to book activities and reservations directly through the app, and personalized recommendations based on their interests.</p></li>
-            </ul>
-        </div>
-        <!--  -->
-        <div class="side-para corshame-persona-grid">
-            <img src="./imagen/proj-inner/corschame/balloon.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-            <h4>Event Planner</h4>
-            <ul>
-              <li><p><b><u>Needs:</u></b> Access to a comprehensive list of event spaces and services, the ability to manage multiple events and bookings at once, and real-time communication with hotel staff.</p></li>
-              <li><p><b><u>Pain Points:</u></b> Difficulty coordinating with multiple vendors and services, limited availability of event spaces, and unexpected fees or charges.</p></li>
-              <li><p><b><u>Preferences:</u></b> A robust and customizable event management system, the ability to communicate directly with hotel staff and vendors, and detailed information about available event spaces and services.</p></li>
-            </ul>
-        </div>
-        <!--  -->
-        <div class="side-para corshame-persona-grid">
-            <img src="./imagen/proj-inner/corschame/cup.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-            <h4>Luxury Traveler</h4>
-            <ul>
-              <li><p><b><u>Needs:</u></b> A high-end and personalized experience, access to exclusive amenities and services, and the ability to customize their stay to meet their specific preferences.</p></li>
-              <li><p><b><u>Pain Points:</u></b> Limited availability of luxury accommodations, unexpected fees or charges, and difficulty finding accommodations that meet their specific needs and preferences.</p></li>
-              <li><p><b><u>Preferences:</u></b> A visually stunning and easy-to-use interface, access to exclusive amenities and services such as private dining and spa treatments, and personalized recommendations based on their preferences and interests.</p></li>
-            </ul>
         </div>
       </div>
  
