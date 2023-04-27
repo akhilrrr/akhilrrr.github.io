@@ -12,7 +12,7 @@
           <div class="side-head" style="text-align: center;">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkYjliMjY5ZTNjYTE2YzczMmMyNDM3ODU3NGIyNGZiMGFiNmVmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/11veH56ZK8JRzq/giphy.gif" class="img-fluid" alt="Grindin" style="margin-bottom: 20px;
     width: 200px; border-radius: 5px;">
-            <h4 style="font-size: 20px; text-align: center; font-family: Pop-B;">I'm grindin' on this project right now. Hold tight! </h4>
+            <h4 style="font-size: 20px; text-align: center; font-family: Pop-B;">I'm grindin on this project right now. Hold tight! </h4>
           </div>
       </div>
     </div>

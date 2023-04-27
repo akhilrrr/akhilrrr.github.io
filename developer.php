@@ -12,7 +12,7 @@
           <div class="side-head" style="text-align: center;">
           <img src="https://media.giphy.com/media/wSh94LdNXPVT3cI64J/giphy.gif" class="img-fluid" alt="Developer profile" style="margin-bottom: 20px;
     width: 200px; border-radius: 5px;">
-            <h4 style="font-size: 20px; text-align: center; font-family: Pop-B;">Cookin' up somethin' dope for ya, stay tuned!</h4>
+            <h4 style="font-size: 20px; text-align: center; font-family: Pop-B;">Cookin up somethin dope for ya, stay tuned!</h4>
           </div>
       </div>
     </div>

@@ -201,7 +201,7 @@
         </div>
         <div class="side-para">
             <img src="./imagen/proj-inner/corschame/userjourneyx.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-            <p>By creating a user journey map like this, you can identify potential pain points in the user experience and make improvements to the app to ensure a smooth and enjoyable experience for your users.</p>
+            <p>By creating a user journey map like this, you can identify potential pain points in the user experience and improve the app to ensure a smooth and enjoyable experience for your users.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -214,7 +214,7 @@
           <h4><u>Information Architecture</u></h4>
         </div>
         <div class="side-para">
-            <p>The information architecture aims to provide a modern and innovative user experience for Corschame's guests. The app utilizes advanced technologies such as AI and biometric authentication to deliver personalized and seamless experiences. Users can easily search and filter hotels and destinations, book rooms, manage bookings, earn rewards, explore food and beverage options, discover activities and events, and access transportation information. The interface is visually appealing and easy to navigate, reflecting Corschame's luxury brand image. With personalized recommendations and promotions, users can enjoy a truly customized experience.</p>
+            <p>The information architecture aims to provide a modern and innovative user experience for Corschame's guests. Users can easily search and filter hotels and destinations, book rooms, manage bookings, earn rewards, discover activities, and access transportation information. The interface is visually appealing and easy to navigate, reflecting Corschame's luxury brand image. Furthermore, users can enjoy a truly personalized recommendations and promotions.</p>
             <img src="./imagen/proj-inner/corschame/iax.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
             
         </div>
@@ -229,9 +229,9 @@
           <h4><u>Wireframe</u></h4>
         </div>
         <div class="side-para">
-            <p>Wireframe sketch could help designers and stakeholders visualize the website's structure and layout, plan the user flow, and experiment with different features and layouts to create a user-friendly website that reflects Corschame's luxury brand and unique vacation experiences.</p>
+            <p>Wireframe sketch could help stakeholders visualize the application structure and layout, plan the user flow, and experiment with different features and designs to create a user-friendly application that reflects Corschame's luxury brand and unique vacation experiences.</p>
             <!--  -->
-            <div class="row">
+            <div class="row" style="margin-bottom: 20px;">
               <div class="col">
                   <img src="./imagen/proj-inner/corschame/wire1.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
               </div>
@@ -246,6 +246,23 @@
               </div>
               <div class="col">
                   <img src="./imagen/proj-inner/corschame/wire5.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                  <img src="./imagen/proj-inner/corschame/wire6.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
+              </div>
+              <div class="col">
+                  <img src="./imagen/proj-inner/corschame/wire7.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
+              </div>
+              <div class="col">
+                  <img src="./imagen/proj-inner/corschame/wire8.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
+              </div>
+              <div class="col">
+                  <img src="./imagen/proj-inner/corschame/wire9.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
+              </div>
+              <div class="col">
+                  <img src="./imagen/proj-inner/corschame/wire10.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
               </div>
             </div>
             <!--  -->
