@@ -1084,6 +1084,7 @@ a{
     border: 1px solid #1d3945;
     border-radius: 5px;
     margin-bottom: 30px;
+    min-height: 480px;
 }
 
 /* image disable */
@@ -1097,4 +1098,33 @@ img{
 }
 .RVEQke{
     display: none !important;
+}
+.corsch-desi-sol{
+    display: inline-flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: row;
+    border: 1px solid rgb(255 255 255 / 10%);
+    padding: 10px 8px;
+    border-radius: 5px;
+    width: 100%;
+}
+.corsch-desi-sol img{
+    height: 24px;
+    width: 24px;
+    margin-right: 5px;
+}
+.corsch-desi-sol p{
+    margin-bottom: 0px;
+}
+.corsch-desi-proto{
+    text-align: center;
+}
+.corsch-desi-proto p{
+    margin-top: 15px;
+    display: none;
+}
+.corsch-desi-proto img{
+    width: 100%;
+    height: 100%;
 }

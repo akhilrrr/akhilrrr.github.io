@@ -99,7 +99,7 @@
             <div style="text-align: center;">
               <img src="./imagen/proj-inner/corschame/compe.png" class="img-fluid" alt="Corschame" style="width: 100%; margin-top: 30px; margin-bottom: 40px">
             </div>
-            <ul>
+            <ul style="list-style-type: none; padding-left: 0px;">
               <li><p><b><u>User-friendly and visually appealing interfaces:</u></b> All competitors mobile apps had clean interfaces with easy navigation and intuitive designs. The use of high-quality imagery and color schemes consistent with their brand identities was evident in all apps.</p></li>
               <li><p><b><u>Robust features for booking and managing stays:</u></b> All competitors mobile apps offered comprehensive features for securing and managing visits, including the ability to search and book rooms, view reservation details, modify or cancel reservations, and access loyalty program information.</p></li>
               <li><p><b><u>Personalized experiences and services:</u></b> Some competitors offered personalized experiences and services, such as the ability to customize room preferences and make special requests and recommendations for local activities and attractions based on user preferences and previous bookings.</p></li>
@@ -107,22 +107,6 @@
               <li><p><b><u>In-app messaging and support:</u></b> Most competitors had in-app messaging and support features that allowed users to communicate with hotel staff and receive assistance with any issues or requests.</p></li>
           </ul>
           <p>The competitor analysis revealed that the UK luxury hotel and resort market has highly competitive and robust mobile app user experiences. As a result, Corschame would need to ensure that its app offers similar features and user-friendliness to stay competitive.</p>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>User Interviews & Comments</u></h4>
-        </div>
-        <div class="side-para">
-          <p>After conducting user interviews for the mobile app user experience design case study for "Corschame", a luxury hotel & resort chain based in the UK, the following summary of key comments and suggestions emerged:</p>
-          <img src="./imagen/proj-inner/corschame/survey.png" class="img-fluid mb-3" alt="Corschame" style="width: 100%;">
-          <p>Additional suggestions include incorporating a loyalty program that rewards frequent guests with exclusive perks and discounts, providing real-time flight information and transportation options for getting to and from the hotel, and adding a social aspect to the app where users can connect with other guests and share recommendations and experiences.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -146,7 +130,7 @@
               <div class="side-para corshame-persona-grid">
                   <img src="./imagen/proj-inner/corschame/briefcase.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Business Traveler</h4>
-                  <ul>
+                  <ul style="list-style-type: none; padding-left: 0px;">
                     <li><p><b><u>Needs:</u></b> A seamless and efficient booking process, access to hotel amenities such as conference rooms, and a personalized experience that caters to their specific business needs.</p></li>
                     <li><p><b><u>Pain Points:</u></b> Limited time to plan and book accommodations, difficulty finding a hotel that meets their specific business requirements, and the need for reliable Wi-Fi and other business-related services.</p></li>
                     <li><p><b><u>Preferences:</u></b> A streamlined and intuitive user interface, access to local restaurant and transportation recommendations, and the ability to quickly and easily access important information about their stay.</p></li>
@@ -157,7 +141,7 @@
               <div class="side-para corshame-persona-grid">
                   <img src="./imagen/proj-inner/corschame/sunglasses.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Leisure Traveler</h4>
-                  <ul>
+                  <ul style="list-style-type: none; padding-left: 0px;">
                     <li><p><b><u>Needs:</u></b> A relaxing and stress-free vacation experience, access to information about local attractions and events, and the ability to customize their stay to meet their specific preferences.</p></li>
                     <li><p><b><u>Pain Points:</u></b> Difficulty finding accommodations that meet their specific needs and preferences, unexpected fees or charges, and difficulty navigating an unfamiliar city.</p></li>
                     <li><p><b><u>Preferences:</u></b> A visually appealing and user-friendly interface, the ability to book activities and reservations directly through the app, and personalized recommendations based on their interests.</p></li>
@@ -168,7 +152,7 @@
               <div class="side-para corshame-persona-grid">
                   <img src="./imagen/proj-inner/corschame/balloon.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Event Planner</h4>
-                  <ul>
+                  <ul style="list-style-type: none; padding-left: 0px;">
                     <li><p><b><u>Needs:</u></b> Access to a comprehensive list of event spaces and services, the ability to manage multiple events and bookings at once, and real-time communication with hotel staff.</p></li>
                     <li><p><b><u>Pain Points:</u></b> Difficulty coordinating with multiple vendors and services, limited availability of event spaces, and unexpected fees or charges.</p></li>
                     <li><p><b><u>Preferences:</u></b> A robust and customizable event management system, the ability to communicate directly with hotel staff and vendors, and detailed information about available event spaces and services.</p></li>
@@ -179,7 +163,7 @@
               <div class="side-para corshame-persona-grid">
                   <img src="./imagen/proj-inner/corschame/cup.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Luxury Traveler</h4>
-                  <ul>
+                  <ul style="list-style-type: none; padding-left: 0px;">
                     <li><p><b><u>Needs:</u></b> A high-end and personalized experience, access to exclusive amenities and services, and the ability to customize their stay to meet their specific preferences.</p></li>
                     <li><p><b><u>Pain Points:</u></b> Limited availability of luxury accommodations, unexpected fees or charges, and difficulty finding accommodations that meet their specific needs and preferences.</p></li>
                     <li><p><b><u>Preferences:</u></b> A visually stunning and easy-to-use interface, access to exclusive amenities and services such as private dining and spa treatments, and personalized recommendations.</p></li>
@@ -192,6 +176,23 @@
  
       <div class="col-md-1"></div>
     </div>
+    <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>User Interviews & Comments</u></h4>
+        </div>
+        <div class="side-para">
+          <p>After conducting user interviews for the mobile app user experience design case study for "Corschame", a luxury hotel & resort chain based in the UK, the following summary of key comments and suggestions emerged:</p>
+          <img src="./imagen/proj-inner/corschame/survey.png" class="img-fluid mb-3" alt="Corschame" style="width: 100%;">
+          <p>Additional suggestions include incorporating a loyalty program that rewards frequent guests with exclusive perks and discounts, providing real-time flight information and transportation options for getting to and from the hotel, and adding a social aspect to the app where users can connect with other guests and share recommendations and experiences.</p>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <!--  -->
+    
     <!--  --> 
     <div class="row">
       <div class="col-md-1"></div>
@@ -202,6 +203,92 @@
         <div class="side-para">
             <img src="./imagen/proj-inner/corschame/userjourneyx.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
             <p>By creating a user journey map like this, you can identify potential pain points in the user experience and improve the app to ensure a smooth and enjoyable experience for your users.</p>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Design Solution</u></h4>
+        </div>
+        <div class="side-para">
+          <p>The Corschame mobile app is designed to provide a seamless user experience for luxury hotel and resort guests. The app will offer a range of features and functionality to enhance the guest experience, from booking and check-in to personalized recommendations and in-room service requests.</p>
+          <div class="row" style="margin-bottom: 15px;">
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/bookingft.png" class="img-fluid" alt="Corschame">
+                  <p>Booking & Check-in</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/personalizeft.png" class="img-fluid" alt="Corschame">
+                  <p>Recommendations</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/roomft.png" class="img-fluid" alt="Corschame">
+                  <p>Service & Amenities</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/loyaltyft.png" class="img-fluid" alt="Corschame">
+                  <p>Loyalty & Rewards</p>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="row" style="margin-bottom: 15px;">
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/supportft.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/keyft.png" class="img-fluid" alt="Corschame">
+                  <p>Digital Key</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/apartmentft.png" class="img-fluid" alt="Corschame">
+                  <p>Property Information</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/shareft.png" class="img-fluid" alt="Corschame">
+                  <p>Social Sharing</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/activityft.png" class="img-fluid" alt="Corschame">
+                  <p>Activities</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-sol">
+                  <img src="./imagen/proj-inner/corschame/languageft.png" class="img-fluid" alt="Corschame">
+                  <p>Language Support</p>
+              </div>
+            </div>
+            <div class="col">
+
+            </div>
+            <div class="col">
+      
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -226,7 +313,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Wireframe</u></h4>
+          <h4><u>Wireframes</u></h4>
         </div>
         <div class="side-para">
             <p>Wireframe sketch could help stakeholders visualize the application structure and layout, plan the user flow, and experiment with different features and designs to create a user-friendly application that reflects Corschame's luxury brand and unique vacation experiences.</p>
@@ -270,7 +357,22 @@
                margin-bottom: 0px;
                text-align: center;
                display: grid;
-               color: #FFF;">▧ View wireframe</a>
+               color: #FFF;">▧ View wireframes</a>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Research & Design Validation</u></h4>
+        </div>
+        <div class="side-para">
+        <p>The next step would be to conduct user research and testing to validate the wireframes created for the app. This ensures the wireframes meet the target user's and stakeholders' needs and preferences.</p>
+        <img src="./imagen/proj-inner/corschame/recording.png" class="img-fluid" alt="Corschame" style="margin-top: 0px; margin-bottom: 10px">
+        <p>After making the necessary improvements based on user feedback, the wireframes can be finalized and used to create high-fidelity mockups and prototypes for further testing and validation. This iterative process can be continued until the app design meets the needs and preferences of the target users and provides a seamless and enjoyable user experience.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -284,9 +386,106 @@
         </div>
         <div class="side-para">
         <p>Wireframe sketch could help designers and stakeholders visualize the website's structure and layout, plan the user flow, and experiment with different features and layouts to create a user-friendly website that reflects Corschame's luxury brand and unique vacation experiences.</p>
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe style="border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 5px;" width="" height="" src="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?page-id=0%3A1&node-id=152-129&scaling=min-zoom&starting-point-node-id=262%3A651&hide-ui=1" allowfullscreen></iframe>
+        <!--  -->
+        <div class="row" style="margin-bottom: 15px;">
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D01.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D02.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D03.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D04.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D05.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
         </div>
+        <!--  -->
+        <div class="row" style="margin-bottom: 15px;">
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D06.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D07.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D08.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D09.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D10.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+        </div>
+        <!--  -->
+        <div class="row" style="margin-bottom: 15px;">
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D11.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D12.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D13.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D14.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+            <div class="col">
+              <div class="corsch-desi-proto">
+                  <img src="./imagen/proj-inner/corschame/D15.png" class="img-fluid" alt="Corschame">
+                  <p>Virtual Concierge</p>
+              </div>
+            </div>
+        </div>
+
         <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?page-id=0%3A1&node-id=152-129&scaling=min-zoom&starting-point-node-id=262%3A651&hide-ui=1" class="clickable-image-preview" tar target="_blank" style="margin-top: 15px;
                margin-bottom: 0px;
                text-align: center;

@@ -70,6 +70,10 @@
                   <li>
                       <a href="music.php">Work Jams</a>
                   </li>
+                  <li>
+                      <a href="gig-index.php">Gig Index</a>
+                  </li>
+                  <br /><br /><br /><br />
               </ul>
           </div>
       </div>
