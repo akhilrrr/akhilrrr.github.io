@@ -13,7 +13,7 @@
       <div class="col-md-10">
         <h1>Manorama Online</h1>
         <div class="side-para">
-          <p style="padding-bottom: 10px;">Manorama Online is India's largest regional language news website that underwent a significant revamp of its user experience (UX) design. The redesign aimed to improve the site's overall user experience, including enhancing features, making it more accessible and visually appealing.</p>
+          <p style="padding-bottom: 10px;">Manorama Online, India's largest regional language news website, recently underwent a significant user experience (UX) design overhaul. The primary objective of the redesign was to enhance the website's overall user experience by improving its features, accessibility, and visual appeal.</p>
           <p style="margin-bottom: 30px;">Project website: <a href="https://www.manoramaonline.com/" class="btn-project-or-internal-link">www.manoramaonline.com</a></p>
         </div>
       </div>

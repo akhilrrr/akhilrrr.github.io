@@ -83,12 +83,20 @@
                                             <td>XL Technologies</td>
                                           </tr>
                                           <tr>
+                                            <td>Visual Designer</td>
+                                            <td>Xtreme Marketing</td>
+                                          </tr>
+                                          <tr>
+                                            <td>Design Volunteer</td>
+                                            <td>Catchafire</td>
+                                          </tr>
+                                          <tr>
                                             <td>Design Intern</td>
                                             <td>Syosys</td>
                                           </tr>
                                           <tr>
                                             <td>Design Intern</td>
-                                            <td>Catchafire</td>
+                                            <td>LCC</td>
                                           </tr>
                                         </tbody>
                                       </table>

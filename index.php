@@ -42,21 +42,21 @@
       <div class="col-md-12" data-aos="fade-in" data-aos-duration="1000">
         <h2 class="main-sub-head">Recent projects</h2>
       </div>
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+        <a href="x-alnassr.php" class="clickable-recents">
+          <div class="recent-homeindi">
+            <img data-aos="zoom-out-up" src="./imagen/home/lazada-april.png" class="img-fluid" alt="AlNassr">
+            <h4>Shopee Singapore</h4>
+            <p>Dive into an in-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</p>
+          </div>
+        </a>
+      </div>
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
         <a href="x-corschame.php" class="clickable-recents" target="_blank">
           <div class="recent-homeindi">
             <img data-aos="zoom-out-up" src="./imagen/home/corschame-april.png" class="img-fluid" alt="Corschame">
             <h4>Corschame Holiday</h4>
-            <p>Award-winning innovator is transforming the notion of all-inclusive luxury vacations in Europe to meet the needs of sophisticated luxury travelers and enthusiasts worldwide.</p>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
-        <a href="301.php" class="clickable-recents">
-          <div class="recent-homeindi">
-            <img data-aos="zoom-out-up" src="./imagen/home/al-april.png" class="img-fluid" alt="AlNassr">
-            <h4>Al Nassr Virtual World</h4>
-            <p>The Al Nassr FC's virtual reality (VR) experience allows fans to immerse themselves in the world of the club, especially Cristiano Ronaldo.</p>
+            <p>Corschame is a luxury hotel and resort chain based in the UK that operates vacation resorts all over popular European tourist spots.</p>
           </div>
         </a>
       </div>

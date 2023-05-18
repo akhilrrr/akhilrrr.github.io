@@ -160,7 +160,7 @@
               <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
-                <a href="x-rapide.php" target="_blank">
+                <a href="500.php" target="_blank">
                   <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
                 </a>
               </td>
@@ -193,7 +193,7 @@
               <td>🟢</td>
               <td class="hide-prop">2021</td>
               <td>
-                <a href="x-soundcloud.php" target="_blank">
+                <a href="500.php" target="_blank">
                   <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
                 </a>
               </td>
@@ -215,9 +215,9 @@
               <td>🟢</td>
               <td class="hide-prop">2021</td>
               <td>
-                <a href="projects/x-infy.php" target="_blank">
+                <!-- <a href="500.php" target="_blank">
                   <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
-                </a> 
+                </a>  -->
                 <a href="https://www.infy.tv/" target="_blank">
                   <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
                 </a>
@@ -295,9 +295,9 @@
               <td>🟢</td>
               <td class="hide-prop">2019</td>
               <td>
-                <a href="projects/x-oncourse.php" target="_blank">
+                <!-- <a href="projects/x-oncourse.php" target="_blank">
                   <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
-                </a> 
+                </a>  -->
                 <a href="https://tryoncourse.com" target="_blank">
                   <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
                 </a>

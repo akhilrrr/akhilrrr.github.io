@@ -53,13 +53,25 @@
           <div class="footer-grid sociallinks">
                 <ul>
                   <li>
-                      <a href="https://www.linkedin.com/in/akhilremashan/" target="_blank">LinkedIn</a>
-                  </li>
-                  <li>
                       <a href="https://akhilremashan.medium.com/" target="_blank">Blogs</a>
                   </li> 
                   <li>
+                      <a href="music.php">Work Jams</a>
+                  </li>
+                  <li>
+                      <a href="gig-index.php">Gig Index</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      <div class="col-md-3">
+          <div class="footer-grid sociallinks">
+                <ul>
+                  <li>
                       <a href="https://www.fiverr.com/share/6e27qL" target="_blank">Fiverr</a>
+                  </li>
+                  <li>
+                      <a href="https://www.linkedin.com/in/akhilremashan/" target="_blank">LinkedIn</a>
                   </li>
                   <li>
                       <a href="https://github.com/akhilrrr" target="_blank">GitHub</a>
@@ -67,19 +79,7 @@
                   <li>
                       <a href="https://www.instagram.com/akil.ux/" target="_blank">Instagram</a>
                   </li>
-                  <li>
-                      <a href="music.php">Work Jams</a>
-                  </li>
-                  <li>
-                      <a href="gig-index.php">Gig Index</a>
-                  </li>
-                  <br /><br /><br /><br />
-              </ul>
-          </div>
-      </div>
-      <div class="col-md-3">
-          <div class="footer-grid sociallinks">
-
+                </ul>
           </div>
       </div>
       <div class="col-md-1">
@@ -99,7 +99,9 @@
       </div>
     </div>      
   </div>
+  <br /><br /><br /><br />
 </section>
+
 <!--  -->
 
 

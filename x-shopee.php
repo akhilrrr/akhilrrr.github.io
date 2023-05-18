@@ -1,7 +1,7 @@
 <main class="indi-project-only" oncontextmenu="return false" onkeydown="return false;" onmousedown="return false;">
 
 <?php 
-  $titletag = "Corschame Holiday • A-R.XYZ";
+  $titletag = "Shopee Singapore • A-R.XYZ";
   include_once('header.php');
 ?>
 
@@ -11,9 +11,9 @@
       <!--  -->
       <div class="col-md-1"></div>
       <div class="col-md-10">
-        <h1>Corschame Holiday</h1>
+        <h1>Shopee Singapore</h1>
         <div class="side-para">
-          <p style="padding-bottom: 20px;">Corschame is a luxury hotel and resort chain based in the UK that operates vacation resorts all over popular European tourist spots. They are well-known for their high-end amenities, top-notch service, and unique vacation experiences catering to different travelers.</p>
+          <p style="padding-bottom: 20px;">Explore a comprehensive case study on Shopee's seamless one-click checkout solution implementation, delving into their strategies to optimize the checkout process, minimize friction, and enhance user satisfaction. Uncover the critical insights behind their successful efforts, resulting in an improved and efficient online shopping experience.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -23,7 +23,7 @@
         <div class="side-para">
           <div class="embed-responsive embed-responsive-16by9">
             <video autoplay loop muted style='border-radius: 5px;'>
-              <source src="imagen/proj-inner/corschame/intro2.mp4" type="video/mp4" />
+              <source src="imagen/proj-inner/shopee/intro.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
@@ -40,48 +40,206 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Understanding problem space</u></h4>
+          <h4><u>Reducing friction, increasing conversions</u></h4>
         </div>
         <div class="side-para">
-            <p>The app must offer guests a smooth and convenient way to book rooms, access amenities, and services, discover local attractions, and receive tailored recommendations and deals. Guests face challenges navigating through different services, reserving dining or spa services, or finding information on nearby attractions. Therefore, the mobile app must have a user-friendly interface that allows guests to effortlessly book rooms, explore local attractions, and access information on amenities and services. The app must also cater to individual preferences by providing personalized recommendations and offers based on past bookings and preferences. The ultimate objective of the UX design for the Corschame Holiday mobile app is to enrich the guest experience, enhance satisfaction, and increase bookings and revenue for hotels and resorts.</p>
+            <p>In the world of e-commerce websites, the traditional checkout process is often tedious and complex and can result in users abandoning their carts and lower conversions. Shopee Singapore recognized this challenge and set out to simplify the checkout process by introducing a one-click checkout solution on its website. This UX case study delves into the effectiveness of this solution in reducing the number of steps required, minimizing the information needed, and enhancing user satisfaction and conversion rates.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Understanding target market users</u></h4>
+        </div>
+        <div class="side-para">
+            <p>It is crucial to understand the target market users deeply; therefore, we developed a collection of proto-personas representing different user segments based on demographics, online shopping habits, satisfaction with the current checkout process, the likelihood of using the One-Click Checkout feature, expectations, concerns, and feedback. These personas serve as representative profiles that provide insights into the diverse needs and preferences of Shopee users, guiding the design and implementation of the feature to meet their specific requirements effectively.</p>
+            <!--  -->
+            <div class="row" style="margin-bottom: 0px;">
+              <div class="col-md-6">
+                <div class="side-para shopee-persona-card">
+                    <div class="card" style="">
+                      <img class="card-img-top" src="imagen/proj-inner/shopee/proto1.png" alt="Shopee">
+                      <div class="card-body">
+                        <h6>Busy Shopper</h6>
+                        <h5 class="card-title">Jane Mitchell</h5>
+                        <ul class="shopee-persona-card-l1">
+                          <li><p>♉︎ 28 years</li>
+                          <li><p>♀ Female</li>
+                          <li><p>⌦ Central Region</li>
+                        </ul>
+                        <table class="table table-sm">
+            
+                          <tbody>
+                            <tr>
+                              <th scope="row">☑</th>
+                              <td>Shops online several times a week</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">⚠</th>
+                              <td>Somewhat dissatisfied with the current checkout process</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">❤</th>
+                              <td>Very likely to use the One-click Checkout feature</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">☇</th>
+                              <td>Values time-saving and convenience, desires customization options for shipping addresses and payment methods</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">!</th>
+                              <td>Has moderate concerns about security and privacy, expects clear communication on data protection</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">✍︎</th>
+                              <td>Emphasizes the importance of clear user instructions for using the feature</td>
+                            </tr>
+
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="side-para shopee-persona-card">
+                    <div class="card" style="">
+                      <img class="card-img-top" src="imagen/proj-inner/shopee/proto2.png" alt="Shopee">
+                      <div class="card-body">
+                        <h6>Convenience Seeker</h6>
+                        <h5 class="card-title">Mark Johnson</h5>
+                        <ul class="shopee-persona-card-l1">
+                          <li><p>♋︎ 31 years</li>
+                          <li><p>♂ Male</li>
+                          <li><p>⌦ South Region</li>
+                        </ul>
+                        <table class="table table-sm">
+            
+                          <tbody>
+                            <tr>
+                              <th scope="row">☑</th>
+                              <td>Shops online once a month</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">⚠</th>
+                              <td>Neutral about the current checkout process</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">❤</th>
+                              <td>Very likely to use the One-click Checkout feature</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">☇</th>
+                              <td>Excited about the time-saving benefits, interested in additional security measures</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">!</th>
+                              <td>Moderately concerned about security during online transactions, expects robust security measures like data encryption</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">✍︎</th>
+                              <td>Suggests a user-friendly interface for a seamless experience</td>
+                            </tr>
+
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                </div>
+              </div>
+
+            </div>
+            <!--  -->
+            <p>The comprehensive analysis of proto-personas provides a deep understanding of Shopee Singapore's target market users for the One-Click Checkout feature. We gain valuable insights into diverse user needs and preferences by examining demographics, shopping habits, satisfaction levels, expectations, concerns, and feedback. These insights form the foundation for the UX design process, enabling a customized user experience that simplifies checkout, fosters seamless interactions, and enhances overall satisfaction. In addition, addressing user pain points and desires ensures the successful implementation of the One-Click Checkout feature, exceeding user expectations.</p>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
     <!--  -->
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Market Data & Survey</u></h4>
+          <h4><u>Competitor analysis</u></h4>
         </div>
         <div class="side-para">
-            <p>The hospitality industry is one of the world's most dynamic and rapidly changing industries. With the rise of technology, changing consumer preferences, and the impact of global events, hoteliers are constantly adapting to stay ahead of the curve. Understanding the latest trends and developments is crucial to success in this context. Here are some key statistics and insights to help you stay informed and make data-driven decisions for your hotel business:</p>
-            <div class="row">
-              <div class="col-md-6 mb-4">
-                <img src="./imagen/proj-inner/corschame/facto1.png" class="img-fluid" alt="Corschame" style="width: 100%;">
-              </div>
-              <div class="col-md-6 mb-4">
-                <img src="./imagen/proj-inner/corschame/facto2.png" class="img-fluid" alt="Corschame" style="width: 100%;">
-              </div>
-              <div class="col-md-6">
-                <img src="./imagen/proj-inner/corschame/facto3.png" class="img-fluid" alt="Corschame" style="width: 100%;">
-              </div>
-              <div class="col-md-6">
-                <img src="./imagen/proj-inner/corschame/facto4.png" class="img-fluid" alt="Corschame" style="width: 100%;">
-              </div>
+            <p>This table compares different aspects and attributes of the key competitors in the Singapore e-commerce market to understand their offerings regarding the one-click checkout process and other relevant attributes.</p>
+            <!--  -->
+            <div class="table-responsive table-responsive-shopee">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Competitor</th>
+                    <th scope="col">Market Share</th>
+                    <th scope="col">Reviews Score</th>
+                    <th scope="col">One-Click Checkout</th>
+                    <th scope="col">Payment Method Integration</th>
+                    <th scope="col">Security Measures</th>
+                    <th scope="col">Discounts & Promotions</th>
+                    <th scope="col">Abandonment Rate</th>
+                    <th scope="col">Abandonment Reason</th>
+                    <th scope="col">Potential Aban. Reduction</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Mark</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
+                    <td>Mark</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
+                    <td>Mark</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
+                    <td>@mdo</td>
+                  </tr>
+                  
+                </tbody>
+              </table>
             </div>
-            <div class="aubi-uresear">
-              <p>Based on the user survey results, it was found that 72% of the respondents have previously stayed at a Corschame hotel or resort. Furthermore, 58% of the participants expressed a strong interest in using a mobile app for booking and managing their stay. The most popular features that users would like to see in the Corschame mobile app include room booking (92%), room service ordering (84%), and concierge services (67%).</p>
-              <p>Based on the stakeholder survey, the Corschame mobile app has three critical business goals:</p>
-              <ul>
-                  <li><p>Increasing revenue through direct bookings (92%)</p></li>
-                  <li><p>Improving guest satisfaction and loyalty (84%)</p></li>
-                  <li><p>Streamlining operational processes (72%)</p></li>
-              </ul>
-              <p>However, stakeholders also anticipate challenges in developing and launching the app, including seamless integration with existing hotel technology systems (88%), balancing user experience with security and privacy concerns (76%), and meeting user demands a personalized and customizable experience (69%). To measure the success of the app, stakeholders prioritize an increase in direct bookings and revenue (92%), positive guest feedback and reviews (84%), and higher guest retention rates and loyalty program participation (72%).</p>
+            <!--  -->
+            <p>The participants provided innovative and practical suggestions, including user account integration, guest checkout optimization, pre-checkout summaries, one-click checkout, and auto-application of discounts and coupons. These ideas can now serve as a foundation for further analysis, prototyping, and implementing a streamlined and user-friendly checkout experience on the Shopee Singapore website.</p>
+        </div>
+        </div>
+      <div class="col-md-1"></div>
+    </div>
+
+
+    <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Brainwriting sessions for ideation</u></h4>
+        </div>
+        <div class="side-para">
+            <p>The session's objective was to generate innovative ideas for simplifying the checkout process and implementing a one-click checkout feature on the Shopee Singapore website. In addition, the session aimed to leverage the collective creativity and expertise of the participants to devise practical and straightforward solutions.</p>
+            <p>The brainwriting session was structured to encourage participants to generate ideas individually and build upon each other's suggestions. The key steps were as follows:</p>
+            <div class="row" style="margin-bottom: 0px;">
+                <div class="col mb-4">
+                  <img src="./imagen/proj-inner/shopee/brain1.png" class="img-fluid" alt="Shopee Singapore" style="width: 52px; margin-bottom: 15px; margin-top: 20px;">
+                  <h6>Step 1: Idea Generation</h6>
+                  <p>Participants received a worksheet to generate ideas for simplifying the checkout process and implementing a one-click checkout.</p>
+                </div>
+                <div class="col mb-4">
+                  <img src="./imagen/proj-inner/shopee/brain2.png" class="img-fluid" alt="Shopee Singapore" style="width: 52px; margin-bottom: 15px; margin-top: 20px;">
+                  <h6>Step 2: Idea Exchange</h6>
+                  <p>Participants rotated and reviewed previous ideas, refining and expanding upon them collaboratively. This iterative process allowed multiple contributions and leveraged collective knowledge and creativity.</p>
+                </div>
+                <div class="col mb-4">
+                  <img src="./imagen/proj-inner/shopee/brain3.png" class="img-fluid" alt="Shopee Singapore" style="width: 52px; margin-bottom: 15px; margin-top: 20px;">
+                  <h6>Step 3: Idea Consolidation</h6>
+                  <p>After the brainwriting session, ideas were consolidated, and a discussion was held to address any questions or ambiguities, ensuring a shared understanding among participants.</p>
+                </div>
             </div>
+            <p>The brainwriting session yielded diverse ideas for simplifying the checkout process and implementing a one-click checkout feature. The following is a summary of the key ideas generated:</p>
+            <img src="./imagen/proj-inner/shopee/brainout.svg" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+            <p>The participants provided innovative and practical suggestions, including user account integration, guest checkout optimization, pre-checkout summaries, one-click checkout, and auto-application of discounts and coupons. These ideas can now serve as a foundation for further analysis, prototyping, and implementing a streamlined and user-friendly checkout experience on the Shopee Singapore website.</p>
         </div>
         </div>
       <div class="col-md-1"></div>
