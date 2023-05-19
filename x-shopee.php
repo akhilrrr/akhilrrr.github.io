@@ -57,104 +57,14 @@
         </div>
         <div class="side-para">
             <p>It is crucial to understand the target market users deeply; therefore, we developed a collection of proto-personas representing different user segments based on demographics, online shopping habits, satisfaction with the current checkout process, the likelihood of using the One-Click Checkout feature, expectations, concerns, and feedback. These personas serve as representative profiles that provide insights into the diverse needs and preferences of Shopee users, guiding the design and implementation of the feature to meet their specific requirements effectively.</p>
-            <!--  -->
-            <div class="row" style="margin-bottom: 0px;">
-              <div class="col-md-6">
-                <div class="side-para shopee-persona-card">
-                    <div class="card" style="">
-                      <img class="card-img-top" src="imagen/proj-inner/shopee/proto1.png" alt="Shopee">
-                      <div class="card-body">
-                        <h6>Busy Shopper</h6>
-                        <h5 class="card-title">Jane Mitchell</h5>
-                        <ul class="shopee-persona-card-l1">
-                          <li><p>♉︎ 28 years</li>
-                          <li><p>♀ Female</li>
-                          <li><p>⌦ Central Region</li>
-                        </ul>
-                        <table class="table table-sm">
-            
-                          <tbody>
-                            <tr>
-                              <th scope="row">☑</th>
-                              <td>Shops online several times a week</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">⚠</th>
-                              <td>Somewhat dissatisfied with the current checkout process</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">❤</th>
-                              <td>Very likely to use the One-click Checkout feature</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">☇</th>
-                              <td>Values time-saving and convenience, desires customization options for shipping addresses and payment methods</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">!</th>
-                              <td>Has moderate concerns about security and privacy, expects clear communication on data protection</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">✍︎</th>
-                              <td>Emphasizes the importance of clear user instructions for using the feature</td>
-                            </tr>
-
-                          </tbody>
-                        </table>
-                      </div>
-                    </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="side-para shopee-persona-card">
-                    <div class="card" style="">
-                      <img class="card-img-top" src="imagen/proj-inner/shopee/proto2.png" alt="Shopee">
-                      <div class="card-body">
-                        <h6>Convenience Seeker</h6>
-                        <h5 class="card-title">Mark Johnson</h5>
-                        <ul class="shopee-persona-card-l1">
-                          <li><p>♋︎ 31 years</li>
-                          <li><p>♂ Male</li>
-                          <li><p>⌦ South Region</li>
-                        </ul>
-                        <table class="table table-sm">
-            
-                          <tbody>
-                            <tr>
-                              <th scope="row">☑</th>
-                              <td>Shops online once a month</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">⚠</th>
-                              <td>Neutral about the current checkout process</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">❤</th>
-                              <td>Very likely to use the One-click Checkout feature</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">☇</th>
-                              <td>Excited about the time-saving benefits, interested in additional security measures</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">!</th>
-                              <td>Moderately concerned about security during online transactions, expects robust security measures like data encryption</td>
-                            </tr>
-                            <tr>
-                              <th scope="row">✍︎</th>
-                              <td>Suggests a user-friendly interface for a seamless experience</td>
-                            </tr>
-
-                          </tbody>
-                        </table>
-                      </div>
-                    </div>
-                </div>
-              </div>
-
-            </div>
-            <!--  -->
-            <p>The comprehensive analysis of proto-personas provides a deep understanding of Shopee Singapore's target market users for the One-Click Checkout feature. We gain valuable insights into diverse user needs and preferences by examining demographics, shopping habits, satisfaction levels, expectations, concerns, and feedback. These insights form the foundation for the UX design process, enabling a customized user experience that simplifies checkout, fosters seamless interactions, and enhances overall satisfaction. In addition, addressing user pain points and desires ensures the successful implementation of the One-Click Checkout feature, exceeding user expectations.</p>
+            <img src="imagen/proj-inner/shopee/protopersona.png" alt="Shopee" class="img-fluid" style="margin-top: 20px;">
+            <a href="imagen/proj-inner/shopee/protopersona-shopee.pdf" class="clickable-image-preview" tar target="_blank" style="
+              margin-top: 15px;
+              margin-bottom: 0px;
+              text-align: center;
+              display: grid;
+              color: #FFF;">▧ View proto-personas</a>
+            <p style="margin-top: 30px;">The comprehensive analysis of proto-personas provides a deep understanding of Shopee Singapore's target market users for the One-Click Checkout feature. We gain valuable insights into diverse user needs and preferences by examining demographics, shopping habits, satisfaction levels, expectations, concerns, and feedback. These insights form the foundation for the UX design process, enabling a customized user experience that simplifies checkout, fosters seamless interactions, and enhances overall satisfaction. In addition, addressing user pain points and desires ensures the successful implementation of the One-Click Checkout feature, exceeding user expectations.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -167,43 +77,44 @@
           <h4><u>Competitor analysis</u></h4>
         </div>
         <div class="side-para">
-            <p>This table compares different aspects and attributes of the key competitors in the Singapore e-commerce market to understand their offerings regarding the one-click checkout process and other relevant attributes.</p>
+            <p>We analyzed competitors to understand their offerings in terms of a one-click checkout process and other relevant attributes. This analysis compares different aspects and characteristics of the key competitors in the Singapore e-commerce market.</p>
             <!--  -->
-            <div class="table-responsive table-responsive-shopee">
-              <table class="table">
-                <thead>
-                  <tr>
-                    <th scope="col">Competitor</th>
-                    <th scope="col">Market Share</th>
-                    <th scope="col">Reviews Score</th>
-                    <th scope="col">One-Click Checkout</th>
-                    <th scope="col">Payment Method Integration</th>
-                    <th scope="col">Security Measures</th>
-                    <th scope="col">Discounts & Promotions</th>
-                    <th scope="col">Abandonment Rate</th>
-                    <th scope="col">Abandonment Reason</th>
-                    <th scope="col">Potential Aban. Reduction</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                    <td>@mdo</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
-            </div>
+            <img src="imagen/proj-inner/shopee/competitors.png" alt="Shopee" class="img-fluid" style="margin-top: 20px;">
+            <a href="imagen/proj-inner/shopee/competitors-shopee.pdf" class="clickable-image-preview" tar target="_blank" style="
+              margin-top: 15px;
+              margin-bottom: 0px;
+              text-align: center;
+              display: grid;
+              color: #FFF;">▧ View competitor analysis</a>
             <!--  -->
-            <p>The participants provided innovative and practical suggestions, including user account integration, guest checkout optimization, pre-checkout summaries, one-click checkout, and auto-application of discounts and coupons. These ideas can now serve as a foundation for further analysis, prototyping, and implementing a streamlined and user-friendly checkout experience on the Shopee Singapore website.</p>
+            <p style="margin-top: 30px;">Key Insights:</p>
+            <ul>
+              <li>
+                <p>Market Share: Amazon.sg, Shopee, and Lazada hold significant market shares, indicating their popularity and competitiveness in the e-commerce industry.</p>
+              </li>
+              <li>
+                <p>User Experience Reviews Score: Amazon.sg and Shopee receive high user experience reviews, indicating a positive perception of their platforms. Other competitors have slightly lower scores, suggesting room for improvement.</p>
+              </li>
+              <li>
+                <p>One-Click Checkout: Among the competitors analyzed, only Amazon.sg offers a one-click checkout feature, giving it a competitive advantage in simplifying the checkout process.</p>
+              </li>
+              <li>
+                <p>Integration with Existing Payment Methods: Most competitors, including Shopee, Lazada, Qoo10, Amazon.sg, and Zalora, provide integration with existing payment methods, allowing users to use their preferred payment options during checkout seamlessly.</p>
+              </li>
+              <li>
+                <p>Security Measures: All competitors focus on providing secure payment gateways and SSL encryption to protect user information during transactions.</p>
+              </li>
+              <li>
+                <p>Discounts and Promotions: Competitors like Shopee, Lazada, Qoo10, and Zalora offer various discounts and codes to attract customers and encourage purchases.</p>
+              </li>
+              <li>
+                <p>Cart Abandon Rate: Competitors experience varying cart abandon rates, with percentages ranging from 50% to 75%. Significant reasons for abandonment include lengthy checkout processes, technical errors, inconvenient return policies, lack of trust in sellers, and high shipping costs.</p>
+              </li>
+              <li>
+                <p>Potential Cart Abandonment Savings: Implementing a one-click checkout process could save a significant percentage of cart abandonment for all competitors, ranging from 30% to 55%.</p>
+              </li>
+            </ul>
+            <p>Based on the analysis, Shopee Singapore and its competitors can benefit from implementing a one-click checkout process to address the high cart abandon rates and improve user experience. Therefore, Shopee should focus on integrating this feature while ensuring security measures like secure payment gateways and SSL encryption. Additionally, offering attractive discounts and codes can help incentivize customers to complete their purchases. As a result, Shopee can strengthen its competitive position in the e-commerce market by reducing cart abandonment and enhancing the checkout process.</p>
         </div>
         </div>
       <div class="col-md-1"></div>
