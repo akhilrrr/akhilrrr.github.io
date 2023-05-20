@@ -119,7 +119,61 @@
         </div>
       <div class="col-md-1"></div>
     </div>
+    <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Conducting surveys and analysis</u></h4>
+        </div>
+        <div class="side-para">
+            <p>A survey was conducted to gather insights and feedback on the potential implementation of the "One-click Checkout" feature on the Shopee Singapore website. In addition, the study aimed to understand user preferences and expectations for a seamless and efficient online shopping experience. A total of 500 participants completed the study.</p>
+            <p style="margin-top: 0px;">Demographics:</p>
+            <a href="imagen/proj-inner/shopee/sur-demographics.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/sur-demographics.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Online Shopping Habits:</p>
+            <a href="imagen/proj-inner/shopee/s-habits.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/s-habits.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Checkout Experience:</p>
+            <a href="imagen/proj-inner/shopee/s-checkout.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/s-checkout.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Introducing the One-click Checkout Feature:</p>
+            <a href="imagen/proj-inner/shopee/s-oneclick.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/s-oneclick.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Security and Privacy:</p>
+            <a href="imagen/proj-inner/shopee/s-feedback.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/s-feedback.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p>The survey results indicate a strong interest among Shopee users in implementing the One-click Checkout feature. Participants appreciate the potential time-saving benefits and convenience it would bring. However, customization options, additional security measures, and transparent communication on data protection are crucial for user satisfaction. Recommendations include prioritizing a seamless user experience, implementing robust security measures, and offering clear instructions to users. These insights will guide the design and implementation of the One-click Checkout feature on Shopee Singapore to enhance the checkout process and improve user satisfaction.</p>
 
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
 
     <!--  -->
     <div class="row">
