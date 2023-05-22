@@ -214,204 +214,18 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Competitor Analysis</u></h4>
+          <h4><u>User journey flowchart</u></h4>
         </div>
         <div class="side-para">
-            <p>To identify potential areas for improvement and differentiation for the Corschame mobile app, a competitor analysis was conducted to evaluate the mobile app user experiences of other luxury hotel and resort chains in the UK and EU markets.</p>
-            <p>The analysis revealed the following key findings:</p>
-            <div style="text-align: center;">
-              <img src="./imagen/proj-inner/corschame/compe.png" class="img-fluid" alt="Corschame" style="width: 100%; margin-top: 30px; margin-bottom: 40px">
-            </div>
-            <ul style="list-style-type: none; padding-left: 0px;">
-              <li><p><b><u>User-friendly and visually appealing interfaces:</u></b> All competitors mobile apps had clean interfaces with easy navigation and intuitive designs. The use of high-quality imagery and color schemes consistent with their brand identities was evident in all apps.</p></li>
-              <li><p><b><u>Robust features for booking and managing stays:</u></b> All competitors mobile apps offered comprehensive features for securing and managing visits, including the ability to search and book rooms, view reservation details, modify or cancel reservations, and access loyalty program information.</p></li>
-              <li><p><b><u>Personalized experiences and services:</u></b> Some competitors offered personalized experiences and services, such as the ability to customize room preferences and make special requests and recommendations for local activities and attractions based on user preferences and previous bookings.</p></li>
-              <li><p><b><u>Seamless integration with other hotel technology systems:</u></b> Some competitors had mobile apps seamlessly integrated with other hotel technology systems, such as mobile key access and in-room entertainment systems.</p></li>
-              <li><p><b><u>In-app messaging and support:</u></b> Most competitors had in-app messaging and support features that allowed users to communicate with hotel staff and receive assistance with any issues or requests.</p></li>
-          </ul>
-          <p>The competitor analysis revealed that the UK luxury hotel and resort market has highly competitive and robust mobile app user experiences. As a result, Corschame would need to ensure that its app offers similar features and user-friendliness to stay competitive.</p>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4 class="mb-4"><u>Proto-personas</u></h4>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-      <!--  -->
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="container" style="padding-left: 0px; padding-right: 0px;">
-        <div class="row" style="margin-bottom: 0px;">
-            <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
-                  <img src="./imagen/proj-inner/corschame/briefcase.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-                  <h4>Business Traveler</h4>
-                  <ul style="list-style-type: none; padding-left: 0px;">
-                    <li><p><b><u>Needs:</u></b> A seamless and efficient booking process, access to hotel amenities such as conference rooms, and a personalized experience that caters to their specific business needs.</p></li>
-                    <li><p><b><u>Pain Points:</u></b> Limited time to plan and book accommodations, difficulty finding a hotel that meets their specific business requirements, and the need for reliable Wi-Fi and other business-related services.</p></li>
-                    <li><p><b><u>Preferences:</u></b> A streamlined and intuitive user interface, access to local restaurant and transportation recommendations, and the ability to quickly and easily access important information about their stay.</p></li>
-                  </ul>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
-                  <img src="./imagen/proj-inner/corschame/sunglasses.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-                  <h4>Leisure Traveler</h4>
-                  <ul style="list-style-type: none; padding-left: 0px;">
-                    <li><p><b><u>Needs:</u></b> A relaxing and stress-free vacation experience, access to information about local attractions and events, and the ability to customize their stay to meet their specific preferences.</p></li>
-                    <li><p><b><u>Pain Points:</u></b> Difficulty finding accommodations that meet their specific needs and preferences, unexpected fees or charges, and difficulty navigating an unfamiliar city.</p></li>
-                    <li><p><b><u>Preferences:</u></b> A visually appealing and user-friendly interface, the ability to book activities and reservations directly through the app, and personalized recommendations based on their interests.</p></li>
-                  </ul>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
-                  <img src="./imagen/proj-inner/corschame/balloon.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-                  <h4>Event Planner</h4>
-                  <ul style="list-style-type: none; padding-left: 0px;">
-                    <li><p><b><u>Needs:</u></b> Access to a comprehensive list of event spaces and services, the ability to manage multiple events and bookings at once, and real-time communication with hotel staff.</p></li>
-                    <li><p><b><u>Pain Points:</u></b> Difficulty coordinating with multiple vendors and services, limited availability of event spaces, and unexpected fees or charges.</p></li>
-                    <li><p><b><u>Preferences:</u></b> A robust and customizable event management system, the ability to communicate directly with hotel staff and vendors, and detailed information about available event spaces and services.</p></li>
-                  </ul>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
-                  <img src="./imagen/proj-inner/corschame/cup.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-                  <h4>Luxury Traveler</h4>
-                  <ul style="list-style-type: none; padding-left: 0px;">
-                    <li><p><b><u>Needs:</u></b> A high-end and personalized experience, access to exclusive amenities and services, and the ability to customize their stay to meet their specific preferences.</p></li>
-                    <li><p><b><u>Pain Points:</u></b> Limited availability of luxury accommodations, unexpected fees or charges, and difficulty finding accommodations that meet their specific needs and preferences.</p></li>
-                    <li><p><b><u>Preferences:</u></b> A visually stunning and easy-to-use interface, access to exclusive amenities and services such as private dining and spa treatments, and personalized recommendations.</p></li>
-                  </ul>
-              </div>
-            </div>
-        </div>
-        </div>
-      </div>
- 
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>User Interviews & Comments</u></h4>
-        </div>
-        <div class="side-para">
-          <p>After conducting user interviews for the mobile app user experience design case study for "Corschame", a luxury hotel & resort chain based in the UK, the following summary of key comments and suggestions emerged:</p>
-          <img src="./imagen/proj-inner/corschame/survey.png" class="img-fluid mb-3" alt="Corschame" style="width: 100%;">
-          <p>Additional suggestions include incorporating a loyalty program that rewards frequent guests with exclusive perks and discounts, providing real-time flight information and transportation options for getting to and from the hotel, and adding a social aspect to the app where users can connect with other guests and share recommendations and experiences.</p>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
-    
-    <!--  --> 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>User Journey Map</u></h4>
-        </div>
-        <div class="side-para">
-            <img src="./imagen/proj-inner/corschame/userjourneyx.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 10px">
-            <p>By creating a user journey map like this, you can identify potential pain points in the user experience and improve the app to ensure a smooth and enjoyable experience for your users.</p>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>Design Solution</u></h4>
-        </div>
-        <div class="side-para">
-          <p>The Corschame mobile app is designed to provide a seamless user experience for luxury hotel and resort guests. The app will offer a range of features and functionality to enhance the guest experience, from booking and check-in to personalized recommendations and in-room service requests.</p>
-          <div class="row" style="margin-bottom: 15px;">
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/bookingft.png" class="img-fluid" alt="Corschame">
-                  <p>Booking & Check-in</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/personalizeft.png" class="img-fluid" alt="Corschame">
-                  <p>Recommendations</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/roomft.png" class="img-fluid" alt="Corschame">
-                  <p>Service & Amenities</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/loyaltyft.png" class="img-fluid" alt="Corschame">
-                  <p>Loyalty & Rewards</p>
-              </div>
-            </div>
-          </div>
-          <!--  -->
-          <div class="row" style="margin-bottom: 15px;">
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/supportft.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/keyft.png" class="img-fluid" alt="Corschame">
-                  <p>Digital Key</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/apartmentft.png" class="img-fluid" alt="Corschame">
-                  <p>Property Information</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/shareft.png" class="img-fluid" alt="Corschame">
-                  <p>Social Sharing</p>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/activityft.png" class="img-fluid" alt="Corschame">
-                  <p>Activities</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-sol">
-                  <img src="./imagen/proj-inner/corschame/languageft.png" class="img-fluid" alt="Corschame">
-                  <p>Language Support</p>
-              </div>
-            </div>
-            <div class="col">
+            <p>This flowchart covers the setup, management, and proceeding with One-Click Checkout for the Shopee Singapore website. It provides a precise sequence of steps for users to follow when utilizing the One-Click Checkout feature, enhancing the simplicity and efficiency of the checkout process.</p>
+            <img src="imagen/proj-inner/shopee/flowchart.png" alt="Shopee" class="img-fluid" style="margin-top: 20px;">
+            <a href="imagen/proj-inner/shopee/flowchart.pdf" class="clickable-image-preview" tar target="_blank" style="
+              margin-top: 15px;
+              margin-bottom: 0px;
+              text-align: center;
+              display: grid;
+              color: #FFF;">▧ View flowchart</a>
 
-            </div>
-            <div class="col">
-      
-            </div>
-          </div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -421,66 +235,67 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Information Architecture</u></h4>
+          <h4><u>Iterative prototype development</u></h4>
         </div>
         <div class="side-para">
-            <p>The information architecture aims to provide a modern and innovative user experience for Corschame's guests. Users can easily search and filter hotels and destinations, book rooms, manage bookings, earn rewards, discover activities, and access transportation information. The interface is visually appealing and easy to navigate, reflecting Corschame's luxury brand image. Furthermore, users can enjoy a truly personalized recommendations and promotions.</p>
-            <img src="./imagen/proj-inner/corschame/iax.png" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 20px">
-            
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>    
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>Wireframes</u></h4>
-        </div>
-        <div class="side-para">
-            <p>Wireframe sketch could help stakeholders visualize the application structure and layout, plan the user flow, and experiment with different features and designs to create a user-friendly application that reflects Corschame's luxury brand and unique vacation experiences.</p>
+            <p>Shopee prototypes were developed based on user flows and underwent testing with representative participants. The testing included in-person and remote sessions where users performed tasks mirroring real-world scenarios. The UX designer observed interactions and gathered feedback on usability.</p>
             <!--  -->
-            <div class="row" style="margin-bottom: 40px;">
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire1.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire2.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire3.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire4.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire5.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-            </div>
-            <div class="row">
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire6.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire7.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire8.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire9.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-              <div class="col">
-                  <img src="./imagen/proj-inner/corschame/wire10.jpg" class="img-fluid" alt="Corschame" style="margin-top: 10px; margin-bottom: 0px">
-              </div>
-            </div>
+            <p style="margin-top: 0px;">One-Click Setup:</p>
+            <a href="imagen/proj-inner/shopee/pro-myaccount.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-myaccount.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
             <!--  -->
-            <a href="https://miro.com/welcomeonboard/U1hRb2pjQUhaZnFsNUpxS0ZheU1pUEZFM092eEQ5WnRBbDBWZVFRcFNrSUpqS2dJeEIyV3h3TmVoU1plbENRdHwzNDU4NzY0NTE1Mzc1MjQ5MDQ5fDI=?share_link_id=947454766929" class="clickable-image-preview" tar target="_blank" style="margin-top: 15px;
-               margin-bottom: 0px;
-               text-align: center;
-               display: grid;
-               color: #FFF;">▧ View wireframes</a>
+            <p style="margin-top: 0px;">Creating Profiles:</p>
+            <a href="imagen/proj-inner/shopee/pro-profile.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-profile.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Setup Payment:</p>
+            <a href="imagen/proj-inner/shopee/pro-payment.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-payment.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Delivery Address:</p>
+            <a href="imagen/proj-inner/shopee/pro-address.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-address.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Profile List:</p>
+            <a href="imagen/proj-inner/shopee/pro-profiles.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-profiles.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">Shop Product:</p>
+            <a href="imagen/proj-inner/shopee/pro-shop.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-shop.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <!--  -->
+            <p style="margin-top: 0px;">One-Click Popup:</p>
+            <a href="imagen/proj-inner/shopee/pro-pop.png" class="clickable-image-preview" target="_blank" style="
+              height: auto;
+              float: left;
+              margin-bottom: 20px;">
+              <img src="imagen/proj-inner/shopee/pro-pop.png" alt="Shopee" class="img-fluid" style=" ">
+            </a>
+            <p>SFeedback analysis led to prototype improvements. For example, adjustments were made to the one-click checkout button for better visibility and ease of use. In addition, the checkout process was streamlined by eliminating unnecessary steps and consolidating information, enhancing the overall user experience.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -490,153 +305,23 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Research & Design Validation</u></h4>
+          <h4><u>What’s next</u></h4>
         </div>
         <div class="side-para">
-        <p>The next step would be to conduct user research and testing to validate the wireframes created for the app. This ensures the wireframes meet the target user's and stakeholders' needs and preferences.</p>
-        <img src="./imagen/proj-inner/corschame/recording.png" class="img-fluid" alt="Corschame" style="margin-top: 0px; margin-bottom: 10px">
-        <p>After making the necessary improvements based on user feedback, the wireframes can be finalized and used to create high-fidelity mockups and prototypes for further testing and validation. This iterative process can be continued until the app design meets the needs and preferences of the target users and provides a seamless and enjoyable user experience.</p>
+            <p>Through rigorous user testing with representative users, we assessed the one-click checkout feature's effectiveness, usability, and intuitiveness. Valuable feedback and insights were gathered, leading to iterative refinements and improvements in the design. Combining user research, iterative design, and usability testing, we successfully implemented the one-click checkout feature on Shopee's platform. This case study highlights the process and methodologies to create a seamless and user-centric checkout experience, addressing user pain points and boosting conversion rates.</p>
+            <p>The final design simplifies the checkout process, aligns with Shopee's brand identity, and fulfills user expectations. By incorporating user feedback and employing user-centered design principles, we have created a one-click checkout feature that streamlines the user journey and enhances overall user satisfaction. This case study demonstrates our commitment to delivering exceptional user experiences and showcases our expertise in designing and validating features that effectively meet user needs and business objectives.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>Protoryping</u></h4>
-        </div>
-        <div class="side-para">
-        <p>Wireframe sketch could help designers and stakeholders visualize the website's structure and layout, plan the user flow, and experiment with different features and layouts to create a user-friendly website that reflects Corschame's luxury brand and unique vacation experiences.</p>
-        <!--  -->
-        <div class="row" style="margin-bottom: 40px; margin-top: 25px;">
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D01.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D02.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D03.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D04.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D05.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="row" style="margin-bottom: 40px;">
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D06.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D07.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D08.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D09.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D10.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="row" style="margin-bottom: 25px;">
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D11.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D12.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D13.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D14.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-            <div class="col">
-              <div class="corsch-desi-proto">
-                  <img src="./imagen/proj-inner/corschame/D15.png" class="img-fluid" alt="Corschame">
-                  <p>Virtual Concierge</p>
-              </div>
-            </div>
-        </div>
-        <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?page-id=0%3A1&node-id=262-651&scaling=scale-down&starting-point-node-id=262%3A651&hide-ui=1" class="clickable-image-preview" tar target="_blank" style="margin-top: 15px;
-               margin-bottom: 0px;
-               text-align: center;
-               display: grid;
-               color: #FFF;">▧ View preview</a>
-               
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>Next steps</u></h4>
-        </div>
-        <div class="side-para">
-            <p>After prototyping designs for Corschame's website, the next steps would be to refine the design, implement it into the app development process, and test and launch the app. This process involves several key stages:</p>
-            <ul>
-              <li><p><b><u>Iteration:</u></b> Based on feedback from users, the design will be refined and iterated upon to improve the user experience and meet the project's objectives. This may involve making changes to the layout, navigation, features, or content to better align with user needs and preferences. The iterative design process continues until a user-friendly and visually appealing design is achieved.</p></li>
-              <li><p><b><u>Implement the design:</u></b> Once the design has been refined, it can be implemented into the app development process. The designer should work closely with developers to ensure that the design is implemented as intended and that the app's functionality is consistent with the design.</p></li>
-              <li><p><b><u>Test and launch the app:</u></b> Before launching the app, it should be thoroughly tested to ensure that it is functioning as intended and providing a positive user experience. This involves testing the app's functionality, usability, and compatibility with different devices and operating systems. Any issues or bugs that are identified during testing should be addressed before launching the app. After testing, the app can be launched to the public, and feedback should continue to be collected to further refine the design and improve the user experience.</p></li>
-            </ul>
-            <p>By following these steps, Corschame can create a website design that effectively showcases its luxury brand and unique vacation experiences while providing a user-friendly and visually appealing interface for visitors to browse and book their ideal vacation. The iterative design process ensures that the website is constantly evolving and improving to meet user needs and preferences, while thorough testing and launch processes help to ensure a smooth and successful launch.</p>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
+
+
+
+
+
+
+
+ 
 
 
   </div>
