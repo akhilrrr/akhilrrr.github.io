@@ -90,28 +90,28 @@
             <p style="margin-top: 30px;">Key Insights:</p>
             <ul>
               <li>
-                <p>Market Share: Amazon.sg, Shopee, and Lazada hold significant market shares, indicating their popularity and competitiveness in the e-commerce industry.</p>
+                <p style="margin-bottom: .5rem;">Market Share: Amazon.sg, Shopee, and Lazada hold significant market shares, indicating their popularity and competitiveness in the e-commerce industry.</p>
               </li>
               <li>
-                <p>User Experience Reviews Score: Amazon.sg and Shopee receive high user experience reviews, indicating a positive perception of their platforms. Other competitors have slightly lower scores, suggesting room for improvement.</p>
+                <p style="margin-bottom: .5rem;">User Experience Reviews Score: Amazon.sg and Shopee receive high user experience reviews, indicating a positive perception of their platforms. Other competitors have slightly lower scores, suggesting room for improvement.</p>
               </li>
               <li>
-                <p>One-Click Checkout: Among the competitors analyzed, only Amazon.sg offers a one-click checkout feature, giving it a competitive advantage in simplifying the checkout process.</p>
+                <p style="margin-bottom: .5rem;">One-Click Checkout: Among the competitors analyzed, only Amazon.sg offers a one-click checkout feature, giving it a competitive advantage in simplifying the checkout process.</p>
               </li>
               <li>
-                <p>Integration with Existing Payment Methods: Most competitors, including Shopee, Lazada, Qoo10, Amazon.sg, and Zalora, provide integration with existing payment methods, allowing users to use their preferred payment options during checkout seamlessly.</p>
+                <p style="margin-bottom: .5rem;">Integration with Existing Payment Methods: Most competitors, including Shopee, Lazada, Qoo10, Amazon.sg, and Zalora, provide integration with existing payment methods, allowing users to use their preferred payment options during checkout seamlessly.</p>
               </li>
               <li>
-                <p>Security Measures: All competitors focus on providing secure payment gateways and SSL encryption to protect user information during transactions.</p>
+                <p style="margin-bottom: .5rem;">Security Measures: All competitors focus on providing secure payment gateways and SSL encryption to protect user information during transactions.</p>
               </li>
               <li>
-                <p>Discounts and Promotions: Competitors like Shopee, Lazada, Qoo10, and Zalora offer various discounts and codes to attract customers and encourage purchases.</p>
+                <p style="margin-bottom: .5rem;">Discounts and Promotions: Competitors like Shopee, Lazada, Qoo10, and Zalora offer various discounts and codes to attract customers and encourage purchases.</p>
               </li>
               <li>
-                <p>Cart Abandon Rate: Competitors experience varying cart abandon rates, with percentages ranging from 50% to 75%. Significant reasons for abandonment include lengthy checkout processes, technical errors, inconvenient return policies, lack of trust in sellers, and high shipping costs.</p>
+                <p style="margin-bottom: .5rem;">Cart Abandon Rate: Competitors experience varying cart abandon rates, with percentages ranging from 50% to 75%. Significant reasons for abandonment include lengthy checkout processes, technical errors, inconvenient return policies, lack of trust in sellers, and high shipping costs.</p>
               </li>
               <li>
-                <p>Potential Cart Abandonment Savings: Implementing a one-click checkout process could save a significant percentage of cart abandonment for all competitors, ranging from 30% to 55%.</p>
+                <p style="margin-bottom: .5rem;">Potential Cart Abandonment Savings: Implementing a one-click checkout process could save a significant percentage of cart abandonment for all competitors, ranging from 30% to 55%.</p>
               </li>
             </ul>
             <p>Based on the analysis, Shopee Singapore and its competitors can benefit from implementing a one-click checkout process to address the high cart abandon rates and improve user experience. Therefore, Shopee should focus on integrating this feature while ensuring security measures like secure payment gateways and SSL encryption. Additionally, offering attractive discounts and codes can help incentivize customers to complete their purchases. As a result, Shopee can strengthen its competitive position in the e-commerce market by reducing cart abandonment and enhancing the checkout process.</p>
@@ -203,7 +203,27 @@
                 </div>
             </div>
             <p>The brainwriting session yielded diverse ideas for simplifying the checkout process and implementing a one-click checkout feature. The following is a summary of the key ideas generated:</p>
-            <img src="./imagen/proj-inner/shopee/brainout.svg" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+            
+            <div class="row" style="margin-bottom: 10px;">
+              <div class="col">
+                <img src="./imagen/proj-inner/shopee/w-1.png" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+              </div>
+              <div class="col">
+                <img src="./imagen/proj-inner/shopee/w-2.png" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+              </div>
+              <div class="col">
+                <img src="./imagen/proj-inner/shopee/w-3.png" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+              </div>
+              <div class="col">
+                <img src="./imagen/proj-inner/shopee/w-4.png" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+              </div>
+              <div class="col">
+                <img src="./imagen/proj-inner/shopee/w-5.png" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+              </div>
+              <div class="col">
+                <img src="./imagen/proj-inner/shopee/w-6.png" class="img-fluid" alt="Shopee Singapore" style="width: 100%; margin-bottom: 10px; margin-top: 5px;">
+              </div>
+            </div>
             <p>The participants provided innovative and practical suggestions, including user account integration, guest checkout optimization, pre-checkout summaries, one-click checkout, and auto-application of discounts and coupons. These ideas can now serve as a foundation for further analysis, prototyping, and implementing a streamlined and user-friendly checkout experience on the Shopee Singapore website.</p>
         </div>
         </div>

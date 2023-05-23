@@ -83,7 +83,7 @@
                                             <td>XL Technologies</td>
                                           </tr>
                                           <tr>
-                                            <td>Visual Designer</td>
+                                            <td>Freelance Designer</td>
                                             <td>Xtreme Marketing</td>
                                           </tr>
                                           <tr>

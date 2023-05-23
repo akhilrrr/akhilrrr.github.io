@@ -19,36 +19,60 @@
   <div class="container">
     <div class="row">
       
-        <!-- <div class="side-para">
-          <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-              <li class="breadcrumb-item" style="margin-left: 0px;"><a class="internal-link" href="mailto:akhilremashan@yahoo.com" target="_blank">&#097;&#107;&#104;&#105;&#108;&#114;&#101;&#109;&#097;&#115;&#104;&#097;&#110;[&#065;&#084;]&#089;&#097;&#104;&#111;&#111;[&#068;&#079;&#084;]&#099;&#111;&#109;</a></li>
-            </ol>
-          </nav>    
-        </div> -->
-      <div class="col-md-6">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1Yrjl9X0VCXtGipmjXY1ayVLWNhgM6M7a-EahSV5Xoz0ybA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="    
-          height: 200vh;
-          width: 100%;
-          background-color: transparent;
-          border-radius: 5px;">Loading…</iframe>
+      <div class="col-md-3">
+        <div class="side-para">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
+                <li class="breadcrumb-item"><span>💌 <a class="internal-link" href="https://forms.gle/TZ6ambxdfizPfD7h8" target="_blank">Get in Touch</a></span></li>
+              </ol>
+            </nav>
+          </div>
       </div>
-      <div class="col-md-6">
-          <!-- <div class="side-head">
-            <h4>Let's connect</h4>
-          </div> -->
-          <div class="side-para">
+      <div class="col-md-3">
+        <div class="side-para">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
                 <li class="breadcrumb-item"><span>🤙 <a class="internal-link" href="https://api.whatsapp.com/send?phone=917306174397" target="_blank">Let's chat on WhatsApp</a></span></li>
+              </ol>
+            </nav>
+          </div>
+      </div>
+      <div class="col-md-3">
+        <div class="side-para">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
                 <li class="breadcrumb-item"><span>💬 <a class="internal-link"  href="mailto:akhilremashan@yahoo.com" target="_blank">Shoot me an email</a></span></li>
+              </ol>
+            </nav>
+          </div>
+      </div>
+      <div class="col-md-3">
+        <div class="side-para">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
                 <li class="breadcrumb-item"><span>💼 <a class="internal-link" href="https://www.linkedin.com/in/akhilremashan/" target="_blank">Let's connect on LinkedIn</a></span></li>
+              </ol>
+            </nav>
+          </div>
+      </div>
+      <div class="col-md-3">
+        <div class="side-para">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
                 <li class="breadcrumb-item"><span>🧑‍💻 <a class="internal-link" href="https://github.com/akhilrrr" target="_blank">Follow on GitHub</a></span></li>
+              </ol>
+            </nav>
+          </div>
+      </div>
+      <div class="col-md-3">
+        <div class="side-para">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
                 <li class="breadcrumb-item"><span>🤳 <a class="internal-link" href="https://www.instagram.com/akil.ux/" target="_blank">Follow on Instagram</a></span></li>
               </ol>
             </nav>
           </div>
-      </div>  
+      </div>
     </div>
     <!--  -->
 
