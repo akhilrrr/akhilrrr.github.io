@@ -124,7 +124,7 @@
         <div class="container" style="padding-left: 0px; padding-right: 0px;">
         <div class="row" style="margin-bottom: 0px;">
             <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
+              <div class="side-para corshame-persona-grid corshame-persona-grid-aubi">
                   <img src="./imagen/proj-inner/aubi/xprod04.png" class="img-fluid" alt="Aubi" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Home screen</h4>
                   <ul style="list-style-type: none; padding-left: 0px;">
@@ -133,7 +133,7 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
+              <div class="side-para corshame-persona-grid corshame-persona-grid-aubi">
                   <img src="./imagen/proj-inner/aubi/xprod03.png" class="img-fluid" alt="Aubi" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Settings</h4>
                   <ul style="list-style-type: none; padding-left: 0px;">
@@ -142,7 +142,7 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
+              <div class="side-para corshame-persona-grid corshame-persona-grid-aubi">
                   <img src="./imagen/proj-inner/aubi/xprod07.png" class="img-fluid" alt="Aubi" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Translation screen</h4>
                   <ul style="list-style-type: none; padding-left: 0px;">
@@ -151,7 +151,7 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="side-para corshame-persona-grid">
+              <div class="side-para corshame-persona-grid corshame-persona-grid-aubi">
                   <img src="./imagen/proj-inner/aubi/xprod02.png" class="img-fluid" alt="Aubi" style="margin-top: 10px; margin-bottom: 10px">
                   <h4>Personalization</h4>
                   <ul style="list-style-type: none; padding-left: 0px;">

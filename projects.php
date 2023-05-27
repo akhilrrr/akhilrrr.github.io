@@ -19,7 +19,7 @@
   <div class="container">
     <div class="row">
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/manorama-april.png" class="img-fluid" alt="Manorama Online">
           <h4>Designing experiences for India's largest regional language news website in Malayalam.</h4>
@@ -38,7 +38,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/lazada-april.png" class="img-fluid" alt="Shopee">
           <h4>Dive into an in-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</h4>
@@ -85,7 +85,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/aubil-april.png" class="img-fluid" alt="Aubi">
           <h4>Real-time translation application "Aubi" - designed for flawless conversations.</h4>
@@ -100,7 +100,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/caracal-april.png" class="img-fluid" alt="Caracal">
           <h4>Case study on rebranding Caracal, a digital marketing agency based in India.</h4>
@@ -113,7 +113,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/audit-april.png" class="img-fluid" alt="Caracal">
           <h4>UX audit to identify factors causing declining user satisfaction on the online marketplace portal.</h4>
@@ -131,7 +131,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/sc-april.png" class="img-fluid" alt="Nimbus">
           <h4>Investigating the integration of gamification to incentivize engagement and community building.</h4>
@@ -145,7 +145,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/ash-april.png" class="img-fluid" alt="Ashgabat">
           <h4>Ashgabat is a lightweight WordPress template specifically crafted for agency websites.</h4>
@@ -159,7 +159,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/nimbus-april.png" class="img-fluid" alt="Nimbus">
           <h4>Nimbus is a design guideline tailored for Nimbus Mail, an advanced email marketing platform.</h4>

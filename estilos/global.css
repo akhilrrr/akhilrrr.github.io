@@ -1087,6 +1087,14 @@ a{
     margin-bottom: 30px;
     min-height: 480px;
 }
+.corshame-persona-grid-aubi{
+    padding: 15px;
+    border: 1px solid #1d3945;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    min-height: 660px;
+}
+
 
 /* image disable */
 img{
