@@ -1183,6 +1183,19 @@ hr {
 .alert {
     font-size: 14px;
 }
+.corshame-persona-grid-quote{
+    padding: 15px;
+    border: 1px solid #1d3945;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    min-height: auto; 
+}
+.corshame-persona-grid-quote p{
+    margin-bottom: 0px;
+}
+.corshame-persona-grid-quote ul{
+    margin-bottom: 0px;
+}
 /*  */
 @media only screen and (max-width: 700px) {
     .banner-home {

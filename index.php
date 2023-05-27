@@ -20,7 +20,9 @@
           <a href="contact.php" class="btn-naked-filled">Start a Project</a>
         </div>
       </div>
-      <div class="col-md-4"></div>
+      <div class="col-md-4">
+        <img data-aos="fade-in" src="./imagen/home/banner.svg" class="img-fluid" alt="Akhil doing research">
+      </div>
     </div>
   </div>
 
@@ -89,7 +91,7 @@
         <div class="about-right">
           <img data-aos="zoom-out-up" src="./imagen/home/unicorn.png" class="img-fluid" alt="Hello!" style="width: 110px;">
           <h3>
-          With over 6+ years of experience in UX UI design and coding, I am driven to create authentic and captivating user experiences that resonate with audiences across enterprise products, websites, and applications. Whether the project is a small-scale endeavor or a grand enterprise, I am eager to contribute my expertise and ensure its success. From generating groundbreaking ideas to constructing clear wireframes, performing in-depth user research, devising innovative design flows, directing the design team and process, and building interactive prototypes, I possess the versatility and skill set to manage every aspect of a project with utmost efficiency.
+            With more than six years of expertise in UX UI design and coding, I am passionately committed to crafting genuine and captivating user experiences that deeply connect with audiences across various enterprise products, websites, and applications. Whether the project is a modest undertaking or a large-scale enterprise, I am enthusiastic about leveraging my skills to make a meaningful contribution and ensure its triumph. From conceiving groundbreaking concepts to creating lucid wireframes, conducting comprehensive user research, devising innovative design workflows, overseeing the design team and process, and constructing interactive prototypes, I possess the adaptability and broad skill set to manage every aspect of a project proficiently.
           </h3>
           <a href="about.php" class="btn-naked-transpa">Keep reading</a>
         </div>

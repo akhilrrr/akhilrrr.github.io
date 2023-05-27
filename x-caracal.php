@@ -13,7 +13,7 @@
       <div class="col-md-10">
         <h1>Caracal</h1>
         <div class="side-para">
-          <p style="padding-bottom: 20px;">Caracal, a digital marketing agency founded in 2019, embarked on a rebranding effort better to position itself in the highly competitive digital marketing landscape. The rebranding aimed to create a modern, innovative brand identity that accurately reflects the company's unique value proposition and sets it apart from its competitors.</p>
+          <p style="padding-bottom: 20px;">Caracal, a digital marketing agency established in 2019, initiated a rebranding campaign to enhance its positioning in the fiercely competitive digital marketing industry. The rebranding aimed to establish a contemporary and inventive brand identity that effectively showcases the company's distinctive value proposition and distinguishes it from other competitors in the market.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -38,7 +38,7 @@
           <h4>Why rebranding?</h4>
         </div>
         <div class="side-para">
-          <p>Caracal was founded in 2019 as a digital marketing agency focusing on helping businesses establish their online presence and grow their brand. While the company had seen success in its first few years of operation, its branding had become outdated and did not reflect the agency's core values.</p>
+          <p>Caracal initially focused on assisting businesses with brand strategy and building brand communities. Despite experiencing success in its early years, the agency's branding had become outdated and no longer aligned with its core values.</p>
         </div>
         <br />
         <div class="side-para">
@@ -46,7 +46,7 @@
         </div>
         <br />
         <div class="side-para">
-          <p>With these key insights in mind, we began brainstorming logo concepts that would accurately reflect the company's identity and resonate with its target audience. After several rounds of feedback and iteration, the team settled on a sleek, modern design featuring a stylized caracal head in Sapphire Blue, the company's primary brand color. The design was chosen for its ability to convey the company's core values and reflect its agile, adaptive approach to digital marketing.</p>
+          <p>To address this, we embarked on a rebranding journey with the objective of creating a logo that accurately represented the company's identity and resonated with its target audience. Through multiple rounds of feedback and refinement, our team ultimately selected a sleek and modern design featuring a stylized caracal head in Sapphire Blue, the agency's primary brand color. This design was chosen for its ability to effectively communicate the company's core values and showcase its agile and adaptive approach to digital marketing.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -64,25 +64,14 @@
         <div class="side-para">
             <img src="./imagen/proj-inner/caracal2/caracal-comp.png" class="img-fluid mb-3" alt="Caracal" style="width: 100%">
             <br />
-            <p>The team encountered the challenge of creating a logo that accurately portrays the company's identity while addressing the misconception that a caracal is a domesticated cat. To overcome this challenge, the team made the caracal's ears the centrepiece of the logo design. By exaggerating their size and shape, the logo creates a distinctive and unforgettable image that sets caracal apart from other brands associated with cats.</p>
-            <p>To highlight the uniqueness of the caracal, the design team also incorporated a stylized ear in Sapphire Blue, the company's primary brand color. This design choice reflects the company's fundamental values of honesty, passion, and courage while indicating its modern, innovative approach to digital marketing.</p>
-            <p>Overall, this design process successfully captures the essence of caracal's identity and differentiates it from other brands. Additionally, the distinct image of the caracal's ears is a recognizable visual marker, enhancing its brand recognition and positioning it as a prominent player in the digital marketing industry.</p>
+            <p>The team was tasked with developing a logo that effectively represented the company's identity and addressed the misconception that a caracal is a domesticated cat. To tackle this challenge, the team highlighted the distinguishing feature of the Caracal—the ears—in the logo design. By accentuating their size and shape, the logo achieved a distinct and memorable visual that differentiates Caracal from other brands associated with cats.</p>
+            <p>To accentuate the distinctiveness of the caracal, the design team additionally integrated a stylized ear in Sapphire Blue, which serves as the primary brand color of the company. This deliberate design decision effectively captures the agency's core values of integrity, enthusiasm, and bravery while symbolizing its contemporary and inventive approach to digital marketing.</p>
+            <p>In conclusion, the design process has effectively captured the true essence of Caracal's identity and set it apart from other brands. Furthermore, the distinctive image of Caracal's ears is a recognizable visual symbol, elevating its brand recognition and establishing its position as a prominent player in the digital marketing industry.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-            <div class="side-para">
-              <h5>Brand colors</h5>
-              <p>Given the link between colours and perceptions, we aimed to communicate our brand message through vibrant colors. For this reason, we chose Sapphire Blue as our primary color, representing Caracal's core principles, including honesty, passion, and courage.</p>
-              <img src="./imagen/proj-inner/caracal2/colors.png" class="img-fluid mb-3" alt="Caracal"  style="width: 100%">
-            </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
     <!--  -->
     <!--  -->
     <div class="row">
@@ -95,8 +84,6 @@
             <img src="./imagen/proj-inner/caracal2/vari2.png" class="img-fluid mb-3" alt="Caracal"  style="width: 100%">
             <h5>Neutral</h5>
             <img src="./imagen/proj-inner/caracal2/vari3.png" class="img-fluid mb-3" alt="Caracal"  style="width: 100%">
-            <h5>Iconified</h5>
-            <img src="./imagen/proj-inner/caracal2/vari4.png" class="img-fluid mb-3" alt="Caracal"  style="width: 100%">
           </div>
         </div>
         <div class="col-md-1"></div>
@@ -109,8 +96,8 @@
           <h4>Impact</h4>
         </div>
         <div class="side-para">
-          <p>The rebranding effort was supported by a comprehensive marketing campaign across social media, email newsletters, and targeted advertising. The campaign successfully generated awareness and interest in the new brand identity, helping to differentiate Caracal from its competitors and position the company as a leader in the digital marketing industry.</p>
-          <p>Overall, the logo redesign and rebranding effort succeeded, strengthening Caracal's relationship with its target audience and enhancing its brand image. The new logo and branding accurately reflect the company's values and unique approach to digital marketing, setting the stage for continued growth and success in the years to come.</p>
+          <p>The rebranding initiative was accompanied by a thorough marketing campaign encompassing social media, email newsletters, and targeted advertisements. This comprehensive campaign effectively raised awareness and sparked interest in Caracal's fresh brand identity, enabling the company to stand out from its competitors and establish itself as a prominent figure in the digital marketing sector.</p>
+          <p>The overall outcome of the logo redesign and rebranding endeavor proved to be successful, as it bolstered Caracal's connection with its target audience and elevated its brand image. In addition, the new logo and branding effectively capture the company's values and distinct approach to digital marketing, paving the way for ongoing expansion and prosperity in the future.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
