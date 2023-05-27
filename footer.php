@@ -77,7 +77,7 @@
                       <a href="https://github.com/akhilrrr" target="_blank">GitHub</a>
                   </li>
                   <li>
-                      <a href="https://www.instagram.com/akil.ux/" target="_blank">Instagram</a>
+                      <a href="https://www.instagram.com/akilxyz/" target="_blank">Instagram</a>
                   </li>
                 </ul>
           </div>

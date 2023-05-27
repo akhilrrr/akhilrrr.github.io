@@ -8,9 +8,11 @@
 <section class="head-section">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
         <h1>The <span class="iHeadBold underline-double">Human Level</span> </h1>
       </div>
+      <div class="col-md-1"></div>
     </div>
   </div>
 </section>
@@ -18,7 +20,8 @@
 <section class="section-leaf">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+    <div class="col-md-1"></div>
+      <div class="col-md-10">
 
         <div class="side-para">
             <p>Designing products at the human level means putting the user at the center of the design process. It involves understanding how people naturally think, feel, and behave and designing products that align with those patterns. Doing so makes digital products more intuitive and easier to use, increasing user satisfaction and engagement.</p>
@@ -29,6 +32,7 @@
         
       </div>
     </div>
+    <div class="col-md-1"></div>
     <!--  -->
   
     <!--  -->

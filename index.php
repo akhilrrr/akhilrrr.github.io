@@ -26,7 +26,7 @@
 
 </section>
 <!--  -->
-<section>
+<!-- <section>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -34,29 +34,29 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!--  -->
 <section class="home-recent">
   <div class="container">
     <div class="row">
-      <div class="col-md-12" data-aos="fade-in" data-aos-duration="1000">
+      <!-- <div class="col-md-12" data-aos="fade-in" data-aos-duration="1000">
         <h2 class="main-sub-head">Recent projects</h2>
-      </div>
+      </div> -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
-        <a href="x-alnassr.php" class="clickable-recents">
+        <a href="x-shopee.php" class="clickable-recents">
           <div class="recent-homeindi">
-            <img data-aos="zoom-out-up" src="./imagen/home/lazada-april.png" class="img-fluid" alt="AlNassr">
-            <h4>Shopee Singapore</h4>
-            <p>Dive into an in-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</p>
+            <img data-aos="zoom-out-up" src="./imagen/home/lazada-april.png" class="img-fluid" alt="Shopee">
+            <h4>In-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</h4>
+            <!-- <p>Dive into an in-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</p> -->
           </div>
         </a>
       </div>
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
-        <a href="x-corschame.php" class="clickable-recents" target="_blank">
+        <a href="x-corschame.php" class="clickable-recents">
           <div class="recent-homeindi">
             <img data-aos="zoom-out-up" src="./imagen/home/corschame-april.png" class="img-fluid" alt="Corschame">
-            <h4>Corschame Holiday</h4>
-            <p>Corschame is a luxury hotel and resort chain based in the UK that operates vacation resorts all over popular European tourist spots.</p>
+            <h4>A sleek and intuitive mobile app designed for Corschame Holidays.</h4>
+            <!-- <p>Corschame is a luxury hotel and resort chain based in the UK that operates vacation resorts all over popular European tourist spots.</p> -->
           </div>
         </a>
       </div>

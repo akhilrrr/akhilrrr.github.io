@@ -40,11 +40,9 @@
         <!--  -->
         <div class="side-para url-list-table table-responsive">
 
-          <ul style="display: flex; list-style-type: none;">
-            <li><p>🟢 Live </p></li>
-            <li> </li>
-            <li><p>🟡 Staging </p></li>
-            <li> </li>
+          <ul style="display: flex; list-style-type: none; padding-left: 0px;">
+            <li style="margin-right: 20px;"><p>🟢 Live </p></li>
+            <li style="margin-right: 20px;"><p>🟡 Staging </p></li>
             <li><p>🟤 Dormant </p></li>
           </ul>
           <!--  -->
@@ -65,7 +63,7 @@
           <tbody>
             <tr>
               <td>Nimbus</td>
-              <td>Design System</td>
+              <td>Design Guideline</td>
               <td>🟡</td>
               <td class="hide-prop">2023</td>
               <td>
@@ -76,8 +74,8 @@
               </td>
             </tr>
             <tr>
-              <td>Al Nassr Virtual World</td>
-              <td>Virtual Reality</td>
+              <td>Al Nassr FC</td>
+              <td>Content Strategy - UX</td>
               <td>🟡</td>
               <td class="hide-prop">2023</td>
               <td>
@@ -89,7 +87,7 @@
             </tr>
             <tr>
               <td>Corschame Holiday</td>
-              <td>Hotels & Resorts</td>
+              <td>Hotels & Resorts (Case study)</td>
               <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
@@ -104,15 +102,14 @@
               <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
-                <!-- <a href="https://zeroheight.com/8d81a0e19" target="_blank">
+                <a href="302.php" target="_blank">
                   <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
-                </a> -->
-                ⋯
+                </a>
               </td>
             </tr>
             <tr>
               <td>Aubi</td>
-              <td>WearOS</td>
+              <td>WearOS (Case study)</td>
               <td>🟢</td>
               <td class="hide-prop">2022</td>
               <td>
@@ -210,7 +207,7 @@
               </td>
             </tr>
             <tr>
-              <td>Infy.tv</td>
+              <td>Infy.T  v</td>
               <td>Adtech Platform</td>
               <td>🟢</td>
               <td class="hide-prop">2021</td>
@@ -325,17 +322,7 @@
                 </a>
               </td>
             </tr>
-            <tr>
-              <td>Xtreme! Marketing</td>
-              <td>Marketing Website</td>
-              <td>🟢</td>
-              <td class="hide-prop">2019</td>
-              <td>
-                <a href="https://www.xtreme-market.com/" target="_blank">
-                  <img src="./imagen/icons/link.svg" alt="Project link" class="img-fluid">
-                </a> 
-              </td>
-            </tr>
+            <!--  -->
             <tr>
               <td>Caracal</td>
               <td>Online Publishing</td>
@@ -347,6 +334,7 @@
                 </a>
               </td>
             </tr>
+            <!--  -->
             <tr>
               <td>Creative Caffeine</td>
               <td>Marketing Website</td>
@@ -393,11 +381,67 @@
             </tr>
             <tr>
               <td>PrintJet</td>
-              <td>Marketing Website</td>
+              <td>Sales Website</td>
               <td>🟢</td>
               <td class="hide-prop">2018</td>
               <td>
                 <a href="https://printjetsolutions.in/" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <!--  -->
+            <tr>
+              <td>Air Cargo Update</td>
+              <td>Android App</td>
+              <td>🟢</td>
+              <td class="hide-prop">2017</td>
+              <td>
+                <a href="https://play.google.com/store/apps/details?id=info.aircargoupdate.com&hl=en_IN&gl=US" target="_blank">
+                  <img src="./imagen/icons/android.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>Unseen Potential by Al Tayer</td>
+              <td>E-commerce</td>
+              <td>🟢</td>
+              <td class="hide-prop">2017</td>
+              <td>
+                <a href="https://unseenpotential.com/" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>Radio Islam India</td>
+              <td>Android App</td>
+              <td>🟢</td>
+              <td class="hide-prop">2017</td>
+              <td>
+                <a href="https://ahaliagroup.com/ahm/" target="_blank">
+                  <img src="./imagen/icons/android.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <tr>
+                <td>Ahalia Hospital Mussafah</td>
+                <td>Marketing Website</td>
+                <td>🟢</td>
+                <td class="hide-prop">2017</td>
+                <td>
+                  <a href="https://ahaliagroup.com/ahm/" target="_blank">
+                    <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                  </a>
+                </td>
+            </tr>
+            <tr>
+              <td>Aviation Guide Emirates</td>
+              <td>Portal Website</td>
+              <td>🟢</td>
+              <td class="hide-prop">2017</td>
+              <td>
+                <a href="https://aviationguideem.com/" target="_blank">
                   <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
                 </a>
               </td>
@@ -415,7 +459,7 @@
             </tr>
             <tr>
               <td>Palmera COCO GmbH</td>
-              <td>Marketing Website</td>
+              <td>Sales Website</td>
               <td>🟢</td>
               <td class="hide-prop">2017</td>
               <td>
@@ -437,7 +481,7 @@
             </tr>
             <tr>
               <td>Al Tayer</td>
-              <td>Marketing Website</td>
+              <td>Sales Website</td>
               <td>🟢</td>
               <td class="hide-prop">2017</td>
               <td>
@@ -486,6 +530,64 @@
               <td class="hide-prop">2017</td>
               <td>
                 <a href="http://csiuaechapter.com" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <!--  -->
+            <tr>
+              <td>Xtreme Marketing</td>
+              <td>Sales Website</td>
+              <td>🟢</td>
+              <td class="hide-prop">2016</td>
+              <td>
+                <a href="https://www.xtreme-market.com/" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <!--  -->
+            <tr>
+              <td>Fund for Southern Communities</td>
+              <td>NGO</td>
+              <td>🟢</td>
+              <td class="hide-prop">2016</td>
+              <td>
+                <a href="http://www.fundforsouth.org/" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <!--  -->
+            <tr>
+              <td>Tharawat Sohar</td>
+              <td>Marketing Website</td>
+              <td>🟢</td>
+              <td class="hide-prop">2016</td>
+              <td>
+                <a href="http://www.tharawatsohar.com/" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>Mithra Diamonds</td>
+              <td>Marketing Website</td>
+              <td>🟢</td>
+              <td class="hide-prop">2016</td>
+              <td>
+                <a href="http://mithradiamonds.in/" target="_blank">
+                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>ABC Group India</td>
+              <td>Marketing Website</td>
+              <td>🟢</td>
+              <td class="hide-prop">2016</td>
+              <td>
+                <a href="https://www.abcgroupindia.com/" target="_blank">
                   <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
                 </a>
               </td>

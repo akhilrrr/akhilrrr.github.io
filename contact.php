@@ -68,7 +68,7 @@
         <div class="side-para">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb" style="display: grid; margin-top: 5px;">
-                <li class="breadcrumb-item"><span>🤳 <a class="internal-link" href="https://www.instagram.com/akil.ux/" target="_blank">Follow on Instagram</a></span></li>
+                <li class="breadcrumb-item"><span>🤳 <a class="internal-link" href="https://www.instagram.com/akilxyz/" target="_blank">Follow on Instagram</a></span></li>
               </ol>
             </nav>
           </div>

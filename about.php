@@ -15,15 +15,15 @@
   </div>
 </section>
 <!--  -->
-<section class="section-leaf">
+<section class="section-leaf section-about">
   <div class="container">
     <div class="row">
       <div class="col-md-7">
         <div class="side-para side-para-special-border-case">
           <p>As a freelance UX designer, I aim to craft seamless and impactful user experiences that leave a lasting impression. My design philosophy revolves around placing the user at the forefront of every decision. Therefore, I thrive on conducting in-depth user research and brainstorming sessions to understand their needs and challenges. This way, I can design innovative solutions that are both functional and intuitive.</p>
           <p>My journey into the design world began during my internships as a web developer, where I worked alongside startups and small businesses from diverse backgrounds. During this time, I realized the immense value of well-designed websites and products in driving successful marketing efforts. This realization fueled my passion for user interface and experience design, and soon, I found myself immersed in creating engaging experiences that leave a lasting impact.</p>
-          <p>By designing client projects during my internship, I secured my first full-time design position at XL Technologies. Since then, I've continuously honed my design skills and knowledge, profoundly understanding user needs as my driving force. As a result, every project I undertake prioritizes user-friendliness while delivering visually appealing and efficient designs.</p>
-          <p>If you're searching for a UX designer passionate about creating excellent user experiences and delivering high-quality designs, look no further! But don't hesitate to get in touch, and let's start something great together.</p>
+          <p>I secured my first full-time design position at XL Technologies by designing client projects during my internship. Since then, I've continuously honed my design skills and knowledge, profoundly understanding user needs as my driving force. As a result, every project I undertake prioritizes user-friendliness while delivering visually appealing and efficient designs.</p>
+          <p>If you're searching for a UX designer passionate about creating excellent user experiences and delivering high-quality designs, look no further! Let's start something great together.</p>
           <br />
           <a href="contact.php" class="btn-naked-filled">Get in touch</a>
         </div>

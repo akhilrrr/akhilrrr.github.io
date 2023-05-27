@@ -56,7 +56,8 @@ nav a{
     width: 35%;
 }
 .home-recent{
-    padding-top: 120px;
+    /* padding-top: 120px; */
+    padding-top: 10px;
     padding-bottom: 120px;
 }
 .clickable-recents:hover{
@@ -68,9 +69,9 @@ nav a{
     margin-bottom: 20px;
 }
 .recent-homeindi h4{
-    font-family: Pop-S;
-    font-size: 24px;
-    line-height: 1.25;
+    font-family: Pop-R;
+    font-size: 20px;
+    line-height: 1.5;
     color: #fff;
     background-color: transparent;
 }
@@ -86,7 +87,7 @@ nav a{
     padding-bottom: 120px;
 }
 .about-home h3{
-    font-family: Pop-S;
+    font-family: Pop-R;
     font-size: 30px;
     line-height: 1.75;
     color: #fff;
@@ -473,9 +474,9 @@ nav a{
 .projindi-proj .projindi-grid22 h4{
     padding-top: 20px;
     padding-bottom: 10px;
-    font-family: Pop-S;
-    font-size: 24px;
-    line-height: 1.25;
+    font-family: Pop-R;
+    font-size: 20px;
+    line-height: 1.5;
     color: #fff;
     background-color: transparent;
 }
@@ -1178,4 +1179,47 @@ hr {
     margin-bottom: 2rem;
     border: 0;
     border-top: 1px solid rgb(255 255 255 / 10%);
+}
+.alert {
+    font-size: 14px;
+}
+/*  */
+@media only screen and (max-width: 700px) {
+    .banner-home {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+    }
+    .banner-home h1 {
+        font-size: 54px !important;
+        line-height: 1.5;
+    }
+    .recent-homeindi h4 {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+    .about-home h3 {
+        font-size: 18px;
+    }
+    .side-para-special-border-case {
+        border-right: none;
+    }
+    .section-about .url-list-table{
+        margin-top: 40px !important;
+    }
+    .head-section h1 {
+        font-size: 54px;
+    }
+}
+@media only screen and (max-width: 540px) {
+    .banner-home h1 {
+        line-height: 1.25;
+        text-align: left;
+    }
+    .banner-center {
+        padding-left: 0px;
+    }
+    .banner-center p {
+        text-align: left;
+        padding-left: 0px !important;
+    }
 }

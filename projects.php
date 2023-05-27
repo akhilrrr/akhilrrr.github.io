@@ -22,8 +22,8 @@
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/manorama-april.png" class="img-fluid" alt="Manorama Online">
-          <h4>Manorama Online</h4>
-          <p>India's largest regional language news website in Malayalam.</p>
+          <h4>Designing experiences for India's largest regional language news website in Malayalam.</h4>
+          <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">UX Research</li> 
               <li class="breadcrumb-item">Feature Enhancement</li>  
@@ -40,9 +40,9 @@
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
-          <img src="./imagen/project-main/lazada-april.png" class="img-fluid" alt="Rapide KDS">
-          <h4>Shopee Singapore</h4>
-          <p>Dive into an in-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</p>
+          <img src="./imagen/project-main/lazada-april.png" class="img-fluid" alt="Shopee">
+          <h4>Dive into an in-depth analysis of Shopee's successful, seamless one-click checkout solution implementation.</h4>
+          <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Experience Improvement</li>    
               <li class="breadcrumb-item">E-commerce</li>
@@ -54,9 +54,9 @@
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
-          <img src="./imagen/project-main/corschame-april.png" class="img-fluid" alt="Auli">
-          <h4>Corschame Holiday</h4>
-          <p>Award-winning Corschame Holiday & Resorts are reinventing the all-inclusive luxury vacations.</p>
+          <img src="./imagen/project-main/corschame-april.png" class="img-fluid" alt="Corschame Holidays">
+          <h4>A sleek and intuitive mobile app designed for Corschame Holidays.</h4>
+          <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Mobile Application</li>
               <li class="breadcrumb-item">UX UI</li>
@@ -71,25 +71,25 @@
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
-          <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="SoundCloud">
-          <h4>Al Nassr Virtual World</h4>
-          <p>Virtual reality experience that would allow fans to immerse themselves in the world of the club.</p>
+          <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="Al Nassr FC">
+          <h4>Comprehensive UX content strategy for Al Nassr FC, solving challenges and taking a user-centric approach.</h4>
+          <!-- <p></p> -->
           <ol class="breadcrumb">
-              <li class="breadcrumb-item">Virtual reality</li>  
-              <li class="breadcrumb-item">UX design</li>
-              <li class="breadcrumb-item">Figma</li>
-              <li class="breadcrumb-item">Immersive experience</li>
+              <li class="breadcrumb-item">UX content strategy</li>  
+              <li class="breadcrumb-item">fan loyalty</li>
+              <li class="breadcrumb-item">Adobe XD</li>
+              <li class="breadcrumb-item">Notion</li>
           </ol>
-          <a href="x-alnassr.php" class="btn-naked position-relative">explore case study</a>
-          <!-- <a style="color: #ccc;" class="disabled">Coming soon..</a> -->
+          <!-- <a href="x-alnassr.php" class="btn-naked position-relative">explore case study</a> -->
+          <a style="color: #ccc;" class="disabled">Coming soon..</a>
         </div>
       </div>
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/aubil-april.png" class="img-fluid" alt="Aubi">
-          <h4>Aubi</h4>
-          <p>Real-time translation application designed for flawless conversations.</p>
+          <h4>Real-time translation application "Aubi" - designed for flawless conversations.</h4>
+          <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">WearOS</li> 
               <li class="breadcrumb-item">Wearable technology</li>  
@@ -102,9 +102,9 @@
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
         <div class="projindi-grid22">
-          <img src="./imagen/project-main/caracal-april.png" class="img-fluid" alt="SoundCloud">
-          <h4>Caracal</h4>
-          <p>Case study on rebranding Caracal, a digital marketing agency based in India.</p>
+          <img src="./imagen/project-main/caracal-april.png" class="img-fluid" alt="Caracal">
+          <h4>Case study on rebranding Caracal, a digital marketing agency based in India.</h4>
+          <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Branding</li>  
               <li class="breadcrumb-item">Adobe Illustrator</li>
@@ -113,6 +113,33 @@
         </div>
       </div>
       <!--  -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+        <div class="projindi-grid22">
+          <img src="./imagen/project-main/ash-april.png" class="img-fluid" alt="Ashgabat">
+          <h4>Ashgabat is a lightweight WordPress template specifically crafted for agency websites.</h4>
+          <!-- <p></p> -->
+          <ol class="breadcrumb">
+              <li class="breadcrumb-item">WordPress Development</li>  
+              <li class="breadcrumb-item">Website Design</li>
+              <li class="breadcrumb-item">Responsive Design</li>
+          </ol>
+          <a href="302.php" class="btn-naked position-relative">Download Theme</a>
+        </div>
+      </div>
+      <!--  -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+        <div class="projindi-grid22">
+          <img src="./imagen/project-main/nimbus-april.png" class="img-fluid" alt="Nimbus">
+          <h4>Nimbus is a design guideline tailored for Nimbus Mail, an advanced email marketing platform.</h4>
+          <!-- <p></p> -->
+          <ol class="breadcrumb">
+              <li class="breadcrumb-item">Design Guideline</li>  
+              <li class="breadcrumb-item">Campaign Platform</li>
+              <li class="breadcrumb-item">Branding</li>
+          </ol>
+          <a style="color: #ccc;" class="disabled">Coming soon..</a>
+        </div>
+      </div>
       
       <!--  -->
       

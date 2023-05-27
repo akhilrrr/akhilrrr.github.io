@@ -8,9 +8,11 @@
 <section class="head-section">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
         <h1>About this website</h1>
       </div>
+      <div class="col-md-1"></div>
     </div>
   </div>
 </section>
@@ -30,7 +32,8 @@
 <section class="section-leaf">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
         <div class="side-head">
           <h4>Details and obligations regarding this website</h4>
         </div>
@@ -44,10 +47,12 @@
             If you have questions or concerns, just let me know <a class="btn-naked" href="https://forms.gle/9TwVH9EDmBqfGX1WA" target="_blank">here</a>
         </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
     <!--  -->
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
 
         <div class="side-head">
           <h4>Build details & attributes</h4>
@@ -246,6 +251,7 @@
         </div>
 
       </div>
+      <div class="col-md-1"></div>
         
     </div>
     <!--  -->

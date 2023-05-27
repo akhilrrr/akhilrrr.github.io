@@ -67,8 +67,8 @@
   </head>
 
   <body>
-  <div class="container">
-  <section>
+  <div class="container" style="background-color: transparent;">
+  <section style="background-color: transparent;">
 
       <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand navbar-brand1" href="index.php">
