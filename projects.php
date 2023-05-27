@@ -115,6 +115,38 @@
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
         <div class="projindi-grid22">
+          <img src="./imagen/project-main/audit-april.png" class="img-fluid" alt="Caracal">
+          <h4>UX audit to identify factors causing declining user satisfaction on the online marketplace portal.</h4>
+          <!-- <p></p> -->
+          <ol class="breadcrumb">
+              <li class="breadcrumb-item">UX Audit</li>  
+              <li class="breadcrumb-item">User Satisfaction</li>
+              <li class="breadcrumb-item">UX Research</li>
+          </ol>
+          <a href="./imagen/proj-inner/addr/UXAudit-protected.pdf" class="btn-naked position-relative" target="_blank">discover insights
+            <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-warning text-dark">
+              Access required
+            </span>
+          </a>
+        </div>
+      </div>
+      <!--  -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+        <div class="projindi-grid22">
+          <img src="./imagen/project-main/sc-april.png" class="img-fluid" alt="Nimbus">
+          <h4>Investigating the integration of gamification to incentivize engagement and community building.</h4>
+          <!-- <p></p> -->
+          <ol class="breadcrumb">
+              <li class="breadcrumb-item">Gamification</li>  
+              <li class="breadcrumb-item">User Engagement</li>
+              <li class="breadcrumb-item">Interactive Experience</li>
+          </ol>
+          <a style="color: #ccc;" class="disabled">Coming soon..</a>
+        </div>
+      </div>
+      <!--  -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
+        <div class="projindi-grid22">
           <img src="./imagen/project-main/ash-april.png" class="img-fluid" alt="Ashgabat">
           <h4>Ashgabat is a lightweight WordPress template specifically crafted for agency websites.</h4>
           <!-- <p></p> -->
@@ -140,6 +172,8 @@
           <a style="color: #ccc;" class="disabled">Coming soon..</a>
         </div>
       </div>
+      <!--  -->
+      
       
       <!--  -->
       
