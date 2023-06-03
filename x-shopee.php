@@ -260,7 +260,8 @@
         <div class="side-para">
             <p>Shopee prototypes were developed based on user flows and underwent testing with representative participants. The testing included in-person and remote sessions where users performed tasks mirroring real-world scenarios. The UX designer observed interactions and gathered feedback on usability.</p>
             <!--  -->
-            <p style="margin-top: 0px;">One-Click Setup:</p>
+            <h6 style="margin-top: 0px;">One-Click Setup:</h6>
+            <p>Users can effortlessly enable Shopee's one-click checkout feature directly from their account. By creating profiles, users can manage their payment and delivery details conveniently. The flexibility of design allows users to have up to five profiles within a single account, ensuring a seamless shopping experience.</p>
             <a href="imagen/proj-inner/shopee/pro-myaccount.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
@@ -268,7 +269,8 @@
               <img src="imagen/proj-inner/shopee/pro-myaccount.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
             <!--  -->
-            <p style="margin-top: 0px;">Creating Profiles:</p>
+            <h6 style="margin-top: 0px;">Creating Profiles:</h6>
+            <p>As the first step, users should give a name to their profiles. Naming profiles allows easy identification and quick access during future purchases. </p>
             <a href="imagen/proj-inner/shopee/pro-profile.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
@@ -276,7 +278,8 @@
               <img src="imagen/proj-inner/shopee/pro-profile.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
             <!--  -->
-            <p style="margin-top: 0px;">Setup Payment:</p>
+            <h6 style="margin-top: 0px;">Setup Payment:</h6>
+            <p>A convenient and secure way for users to save their payment details while setting up our one-click checkout feature. Users can effortlessly enter their card details and billing address. Rest assured, the safety and security of their sensitive information is Shopee's top priority. With a trusted partner, Shopee guarantees the highest level of protection for all stored card details, providing users with peace of mind while enjoying the benefits of hassle-free transactions.</p>
             <a href="imagen/proj-inner/shopee/pro-payment.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
@@ -284,7 +287,8 @@
               <img src="imagen/proj-inner/shopee/pro-payment.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
             <!--  -->
-            <p style="margin-top: 0px;">Delivery Address:</p>
+            <h6 style="margin-top: 0px;">Delivery Address:</h6>
+            <p>In the third step of setting up the one-click checkout, users are prompted to provide essential information for smooth and convenient delivery. They are required to enter their name, phone number, and address. Users can choose between their home or work addresses based on their preferred delivery location and convenience to ensure maximum flexibility. </p>
             <a href="imagen/proj-inner/shopee/pro-address.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
@@ -292,7 +296,8 @@
               <img src="imagen/proj-inner/shopee/pro-address.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
             <!--  -->
-            <p style="margin-top: 0px;">Profile List:</p>
+            <h6 style="margin-top: 0px;">Profiles List:</h6>
+            <p>When it comes to managing addresses during checkout, once user profiles are created and listed on the page, users can set a default address for faster checkout. Additionally, they can easily manage and edit their addresses individually with just a click. </p>
             <a href="imagen/proj-inner/shopee/pro-profiles.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
@@ -300,7 +305,8 @@
               <img src="imagen/proj-inner/shopee/pro-profiles.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
             <!--  -->
-            <p style="margin-top: 0px;">Shop Product:</p>
+            <h6 style="margin-top: 0px;">Shop Product:</h6>
+            <p>The shopping page now features a seamless one-click checkout experience, allowing users to complete their purchases with a single click. Bypassing extra steps saves valuable time and reduces friction for our users. With this convenient feature, customers can enjoy a faster and more efficient shopping experience, making online purchases a breeze. So say goodbye to lengthy forms and unnecessary delays – shopping has never been easier with one-click checkout.</p>
             <a href="imagen/proj-inner/shopee/pro-shop.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
@@ -308,14 +314,15 @@
               <img src="imagen/proj-inner/shopee/pro-shop.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
             <!--  -->
-            <p style="margin-top: 0px;">One-Click Popup:</p>
+            <h6 style="margin-top: 0px;">One-Click CHeckout Review:</h6>
+            <p>The one-click checkout review page is the final step in the shopping process, streamlining the user experience. It features a convenient profile selection dropdown, allowing users to pick the appropriate profile during checkout easily. The page also includes a shopping cart summary, providing a clear overview of the selected items and their pricing information. To enhance the shopping experience further, users can enter and choose promo codes, allowing them to apply discounts or special offers. With these intuitive features, the one-click checkout review page ensures users a seamless and efficient process to complete their purchases.</p>
             <a href="imagen/proj-inner/shopee/pro-pop.png" class="clickable-image-preview" target="_blank" style="
               height: auto;
               float: left;
               margin-bottom: 20px;">
               <img src="imagen/proj-inner/shopee/pro-pop.png" alt="Shopee" class="img-fluid" style=" ">
             </a>
-            <p>SFeedback analysis led to prototype improvements. For example, adjustments were made to the one-click checkout button for better visibility and ease of use. In addition, the checkout process was streamlined by eliminating unnecessary steps and consolidating information, enhancing the overall user experience.</p>
+            <p>Feedback analysis led to prototype improvements. For example, adjustments were made to the one-click checkout button for better visibility and ease of use. In addition, the checkout process was streamlined by eliminating unnecessary steps and consolidating information, enhancing the overall user experience.</p>
         </div>
       </div>
       <div class="col-md-1"></div>

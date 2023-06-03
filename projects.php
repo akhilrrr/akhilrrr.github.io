@@ -85,11 +85,11 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
+      <!-- <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/aubil-april.png" class="img-fluid" alt="Aubi">
           <h4>Real-time translation application "Aubi" - designed for flawless conversations.</h4>
-          <!-- <p></p> -->
+          <p></p>
           <ol class="breadcrumb">
               <li class="breadcrumb-item">WearOS</li> 
               <li class="breadcrumb-item">Wearable technology</li>  
@@ -98,7 +98,7 @@
           </ol>
           <a href="x-aubi.php" class="btn-naked position-relative">explore case study</a>
         </div>
-      </div>
+      </div> -->
       <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
@@ -135,7 +135,7 @@
         <div class="projindi-grid22">
           <img src="./imagen/project-main/sc-april.png" class="img-fluid" alt="Nimbus">
           <h4>Investigating the integration of gamification to incentivize engagement and community building.</h4>
-          <!-- <p></p> -->
+          <p></p>
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Gamification</li>  
               <li class="breadcrumb-item">User Engagement</li>
@@ -159,11 +159,11 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
+      <!-- <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/nimbus-april.png" class="img-fluid" alt="Nimbus">
           <h4>Nimbus is a design guideline tailored for Nimbus Mail, an advanced email marketing platform.</h4>
-          <!-- <p></p> -->
+          <p></p>
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Design Guideline</li>  
               <li class="breadcrumb-item">Campaign Platform</li>
@@ -171,7 +171,7 @@
           </ol>
           <a style="color: #ccc;" class="disabled">Coming soon..</a>
         </div>
-      </div>
+      </div> -->
       <!--  -->
       
       
