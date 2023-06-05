@@ -38,6 +38,21 @@
         </div>
       </div>
       <!--  -->
+      <!--  -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
+        <div class="projindi-grid22">
+          <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="Al Nassr FC">
+          <h4>Al Nassr FC aims to develop a 'Fan Sentiment Analysis' tool to capitalize on popularity surge, gauge fan sentiments, and enhance fan experiences.</h4>
+          <!-- <p></p> -->
+          <ol class="breadcrumb">
+              <li class="breadcrumb-item">Data-driven decisions</li>  
+              <li class="breadcrumb-item">Sentiment Analysis</li>
+              <li class="breadcrumb-item">Adobe XD</li>
+          </ol>
+          <a href="x-alnassr.php" class="btn-naked position-relative">explore case study</a>
+        </div>
+      </div>
+      <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/lazada-april.png" class="img-fluid" alt="Shopee">
@@ -68,22 +83,7 @@
       </div>
       <!--  -->
       
-      <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
-        <div class="projindi-grid22">
-          <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="Al Nassr FC">
-          <h4>Comprehensive UX content strategy for Al Nassr FC, solving challenges and taking a user-centric approach.</h4>
-          <!-- <p></p> -->
-          <ol class="breadcrumb">
-              <li class="breadcrumb-item">UX content strategy</li>  
-              <li class="breadcrumb-item">fan loyalty</li>
-              <li class="breadcrumb-item">Adobe XD</li>
-              <li class="breadcrumb-item">Notion</li>
-          </ol>
-          <!-- <a href="x-alnassr.php" class="btn-naked position-relative">explore case study</a> -->
-          <a style="color: #ccc;" class="disabled">Coming soon..</a>
-        </div>
-      </div>
+      
       <!--  -->
       <!-- <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">

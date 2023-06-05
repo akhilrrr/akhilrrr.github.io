@@ -1,7 +1,7 @@
 <main class="indi-project-only" oncontextmenu="return false" onkeydown="return false;" onmousedown="return false;">
 
 <?php 
-  $titletag = "Al Nassr Virtual World • A-R.XYZ";
+  $titletag = "Nabd: Al Nassr FC's Fan Sentiment Analysis Tool  • A-R.XYZ";
   include_once('header.php');
 ?>
 
@@ -11,7 +11,7 @@
       <!--  -->
       <div class="col-md-1"></div>
       <div class="col-md-10">
-        <h1>Al Nassr Virtual World</h1>
+        <h1>Nabd: Al Nassr FC's Fan Sentiment Analysis Tool</h1>
         <div class="side-para">
           <p style="padding-bottom: 20px;">Al Nassr FC is a professional football club based in Saudi Arabia. After the record signing of Cristiano Ronaldo, the club aims to globalize its marketing campaign and expand its reach beyond its local fanbase. To achieve this goal, the club wants to create a virtual reality experience that allows fans from around the world to immerse themselves in the world of the club and interact with Ronaldo.</p>
         </div>
@@ -23,7 +23,7 @@
         <div class="side-para">
           <div class="embed-responsive embed-responsive-16by9">
             <video autoplay loop muted style='border-radius: 5px;'>
-              <source src="imagen/proj-inner/alnassr/alnassrintro.mp4" type="video/mp4" />
+              <source src="imagen/proj-inner/alnassr/intro.webm" type="video/webm" />
               Your browser does not support the video tag.
             </video>
           </div>
@@ -36,6 +36,19 @@
 <!--  -->
 <section class="section-leaf">
   <div class="container">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Defining fan sentiment analysis</u></h4>
+        </div>
+        <div class="side-para">
+            <p>A fan sentiment analysis tool for a football club is a software platform that monitors and analyzes fan sentiment towards the club, players, events, and related topics. It collects data from social media, news articles, and surveys to provide insights into fan opinions. Key features include sentiment and emotional analysis, trend identification, reports, competitor analysis, real-time notifications, and personalization. It helps clubs understand fan sentiment, improve marketing strategies, and enhance fan experiences.</p>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <!--  -->
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">

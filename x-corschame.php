@@ -504,7 +504,7 @@
         </div>
         <div class="side-para">
             <p>After prototyping designs for Corschame's website, the next steps would be to refine the design, implement it into the app development process, and test and launch the app. This process involves several key stages:</p>
-            <ul>
+            <ul style="list-style-type: none; padding-left: 0px;">
               <li><p><b><u>Iteration:</u></b> Based on feedback from users, the design will be refined and iterated upon to improve the user experience and meet the project's objectives. This may involve making changes to the layout, navigation, features, or content to better align with user needs and preferences. The iterative design process continues until a user-friendly and visually appealing design is achieved.</p></li>
               <li><p><b><u>Implement the design:</u></b> Once the design has been refined, it can be implemented into the app development process. The designer should work closely with developers to ensure that the design is implemented as intended and that the app's functionality is consistent with the design.</p></li>
               <li><p><b><u>Test and launch the app:</u></b> Before launching the app, it should be thoroughly tested to ensure that it is functioning as intended and providing a positive user experience. This involves testing the app's functionality, usability, and compatibility with different devices and operating systems. Any issues or bugs that are identified during testing should be addressed before launching the app. After testing, the app can be launched to the public, and feedback should continue to be collected to further refine the design and improve the user experience.</p></li>
