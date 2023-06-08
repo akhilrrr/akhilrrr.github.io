@@ -13,7 +13,7 @@
       <div class="col-md-10">
         <h1>Nabd: Al Nassr FC's Fan Sentiment Analysis Tool</h1>
         <div class="side-para">
-          <p style="padding-bottom: 20px;">Al Nassr FC is a professional football club based in Saudi Arabia. After the record signing of Cristiano Ronaldo, the club aims to globalize its marketing campaign and expand its reach beyond its local fanbase. To achieve this goal, the club wants to create a virtual reality experience that allows fans from around the world to immerse themselves in the world of the club and interact with Ronaldo.</p>
+          <p style="padding-bottom: 20px;">Al Nassr FC, a prominent football club in Saudi Arabia, has significantly increased in popularity after signing renowned player Cristiano Ronaldo. The club's marketing team aims to create a Fan Sentiment Analysis tool called Nabd to leverage this newfound attention and support. Nabd will enable them to understand their fan's sentiments, preferences, and opinions, empowering them to make data-driven decisions for targeted marketing campaigns and enhance the overall fan experience.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -40,10 +40,10 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Defining fan sentiment analysis</u></h4>
+          <h4><u>Project Goals of Nabd</u></h4>
         </div>
         <div class="side-para">
-            <p>A fan sentiment analysis tool for a football club is a software platform that monitors and analyzes fan sentiment towards the club, players, events, and related topics. It collects data from social media, news articles, and surveys to provide insights into fan opinions. Key features include sentiment and emotional analysis, trend identification, reports, competitor analysis, real-time notifications, and personalization. It helps clubs understand fan sentiment, improve marketing strategies, and enhance fan experiences.</p>
+            <p>The primary goal of this UX design case study is to develop a user-friendly and efficient Fan Sentiment Analysis - Nabd, for Al Nassr FC's marketing team. Nabd should provide actionable insights into fan sentiments, preferences, and opinions, facilitating informed decision-making for targeted marketing campaigns and fan engagement strategies.</p>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -53,10 +53,14 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="side-head">
-          <h4><u>Problem Statement</u></h4>
+          <h4><u>Research and Discovery Phase</u></h4>
         </div>
         <div class="side-para">
-            <p>The problem is that Al Nassr FC needs to globalize its marketing campaign and increase brand awareness after the record signing of Cristiano Ronaldo. The club wants to create a virtual reality experience for its fans, allowing them to explore various areas of the stadium, interact with different elements of the club, roleplay as a player, watch live matches in-stadium cameras, meet and spend match day with Cristiano Ronaldo, and travel with the team bus. The challenge is to create a unique and immersive virtual reality experience that engages the target audience of football fans worldwide and delivers on the objectives of increasing brand awareness and creating a memorable experience.</p>
+            <p>To kickstart the UX design process, the team conducted user research to deeply understand the stakeholders involved, their needs, and their pain points. The research included:</p>  
+            <ul>
+              <li><p><u><strong>Interviews with Al Nassr FC's marketing team members:</strong></u>  The team interviewed marketing personnel to understand their goals, challenges and desired outcomes from the "Fan Sentiment Analysis" tool.</p></li>
+              <li><p><u><strong>Surveys and feedback from Al Nassr FC's fans:</strong></u> An online survey was conducted to collect data on fan's preferences, interests, and sentiments. Feedback was also gathered through social media channels and fan forums.</p></li>
+            </ul>
         </div>
       </div>
       <div class="col-md-1"></div>
