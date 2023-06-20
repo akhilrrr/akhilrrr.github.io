@@ -12,7 +12,7 @@
       <div class="col-md-10">
         <div class="banner-right banner-center">
           <h1>
-          Experiences that Connect on a <a href="human.php" style="color: #ffffff;"><span class="iHeadBold underline-double">Human Level</span></a>
+          Designing experiences that Connect on a <a href="human.php" style="color: #ffffff;"><span class="iHeadBold underline-double">Human Level</span></a>
           </h1>
           <p>
           Transforming user experiences by designing with a focus on human behavior, emotion, and connection.
@@ -91,7 +91,7 @@
         <div class="about-right">
           <img data-aos="zoom-out-up" src="./imagen/home/unicorn.png" class="img-fluid" alt="Hello!" style="width: 110px;">
           <h3>
-            As a seasoned UX/UI designer and developer with over six years of experience, I am dedicated to creating authentic and captivating user experiences. I excel in crafting innovative concepts, wireframing, conducting user research, and overseeing the design. From small projects to large-scale enterprises, I am skilled in managing all aspects of a project to ensure its success. Let me bring my adaptability and diverse skill set to make a meaningful impact on your next endeavor.
+            With over six years of experience as a seasoned UX UI designer and developer, my passion lies in crafting authentic and captivating user experiences. My expertise encompasses innovative concept creation, wireframing, user research, and design oversight. Whether it's a small project or a large-scale enterprise, I possess the skills to manage every aspect and ensure its success. Let me bring my adaptability and diverse skill set to make a meaningful impact on your next endeavor.
           </h3>
           <a href="about.php" class="btn-naked-transpa">Keep reading</a>
         </div>

@@ -74,7 +74,7 @@
         <div class="side-head">
           <h4><u>User Persona</u></h4>
         </div>
-        <div class="row">
+        <div class="row" style="margin-bottom: 0px;">
           <div class="col-md-6">
             <div class="side-para">
               <div class="card persona-card-alnassr">
@@ -153,46 +153,59 @@
       </div>
       <div class="col-md-1"></div>
     </div>
-  </div>
-  <!--  -->
-  <!--  -->
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>Research and Discovery Phase</u></h4>
-        </div>
-        <div class="side-para">
-            <p>To kickstart the UX design process, the team conducted user research to deeply understand the stakeholders involved, their needs, and their pain points. The research included:</p>  
-            <ul>
-              <li><p><u><strong>Interviews with Al Nassr FC's marketing team members:</strong></u>  The team interviewed marketing personnel to understand their goals, challenges and desired outcomes from the "Fan Sentiment Analysis" tool.</p></li>
-              <li><p><u><strong>Surveys and feedback from Al Nassr FC's fans:</strong></u> An online survey was conducted to collect data on fan's preferences, interests, and sentiments. Feedback was also gathered through social media channels and fan forums.</p></li>
-            </ul>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
+    <!--  -->
     <!--  -->
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="side-head">
-          <h4><u>Wireframes and Prototyping</u></h4>
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="side-head">
+            <h4><u>Information Architecture</u></h4>
+          </div>
+          <div class="side-para">
+              <p>The team developed an information architecture that outlines the structure and organization of the "Nabd: Fan Sentiment Analysis" tool. The architecture includes screens such as Dashboard Overview, Real-time Sentiment Analysis, Sentiment Trends and Insights, Fan Preferences and Opinions, Personalization and Targeting, and Notifications and Alerts.</p>  
+          </div>
         </div>
-        <div class="side-para">
-            <p>We developed wireframes and interactive prototypes to visualize the proposed features and user flows. These visual representations will be a basis for gathering feedback from stakeholders and potential users. We will refine the design through iterative feedback sessions and ensure that it effectively meets their needs</p>  
-        </div>
+        <div class="col-md-1"></div>
       </div>
-      <div class="col-md-1"></div>
     </div>
-  
-
-
-
-  
-
-
+  </div>
 </section>
+<!--  -->
+<!--  -->
+<section class="section-leaf">
+  <div class="container">
+
+  <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="side-head">
+            <h4><u>Wireframing and Prototyping</u></h4>
+          </div>
+          <div class="side-para">
+              <p>Using the information architecture as a guide, the team created wireframes and interactive prototypes of the tool's various screens. These visual representations allowed stakeholders to visualize the user interface and provided a basis for gathering feedback and refining the design.</p>  
+              <!--  -->
+              <h6 style="margin-top: 0px;">One-Click CHeckout Review:</h6>
+              <p>The one-click checkout review page is the final step in the shopping process, streamlining the user experience. It features a convenient profile selection dropdown, allowing users to pick the appropriate profile during checkout easily. The page also includes a shopping cart summary, providing a clear overview of the selected items and their pricing information. To enhance the shopping experience further, users can enter and choose promo codes, allowing them to apply discounts or special offers. With these intuitive features, the one-click checkout review page ensures users a seamless and efficient process to complete their purchases.</p>
+              <a href="imagen/proj-inner/shopee/pro-pop.png" class="clickable-image-preview" target="_blank" style="
+                height: auto;
+                float: left;
+                margin-bottom: 20px;">
+                <img src="imagen/proj-inner/shopee/pro-pop.png" alt="Shopee" class="img-fluid" style=" ">
+              </a>
+              <!--  -->
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+
+
+</div>
+</section>
+
+
+
+
+
 <!--  -->
 
 
