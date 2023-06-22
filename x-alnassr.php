@@ -156,51 +156,78 @@
     <!--  -->
     <!--  -->
     <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="side-head">
-            <h4><u>Information Architecture</u></h4>
-          </div>
-          <div class="side-para">
-              <p>The team developed an information architecture that outlines the structure and organization of the "Nabd: Fan Sentiment Analysis" tool. The architecture includes screens such as Dashboard Overview, Real-time Sentiment Analysis, Sentiment Trends and Insights, Fan Preferences and Opinions, Personalization and Targeting, and Notifications and Alerts.</p>  
-          </div>
-        </div>
-        <div class="col-md-1"></div>
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+              <div class="side-head">
+                <h4><u>Designing and Prototyping</u></h4>
+              </div>
+              <div class="side-para">
+                  <p>The focus on lightweight user interface design was prioritized to enhance the user experience. Leveraging the information architecture as a guiding framework, the team proceeded to develop wireframes and interactive prototypes of the tool's diverse screens. This approach enabled stakeholders to comprehend the user interface visually and facilitated the collection of valuable feedback, leading to iterative refinements in the design process.</p>  
+                  <!--  -->
+                  <h6 style="margin-top: 0px;">Sign in</h6>
+                  <p>The sign-in page for Al Nassr FC is designed with a clean and modern aesthetic, aligning perfectly with the recently updated design guidelines. Users can easily enter their email and password on this page, and there is also a convenient flow for users who have forgotten their password. It's important to note that user credentials and access privileges will be managed by a super-user, ensuring that the sign-in page is exclusively available for internal access.</p>
+                  <a href="imagen/proj-inner/alnassr/ald1.png" class="clickable-image-preview" target="_blank" style="
+                    height: auto;
+                    float: left;
+                    margin-bottom: 20px;">
+                    <img src="imagen/proj-inner/alnassr/ald1.png" alt="Al Nassr" class="img-fluid" style=" ">
+                  </a>
+                  <!--  -->
+                  <h6 style="margin-top: 0px;">Dashboard overview</h6>
+                  <p>The dashboard features a simple and clean user interface, prioritizing effective data visualization. Users can navigate through various sections on the side navigation, including the dashboard overview, trend discovery, reports, targeting and personalization, lexicon management, notifications, and account preferences. The top navigation allows users to communicate and monitor the status of other users. Additionally, a calendar is available for scheduling, and users can view the real-time sentiment score. The dashboard offers the option to download data in report format. Key insights include the total number of responses, responses by different sources and integrations, and live sentiment trends displayed using a line graph. Sample responses and the performance of published lexicons are also included. Furthermore, a map view presents the geographical distribution of responses. As users scroll down the dashboard, they can access sections for analyzing personalization, targeting, and lexicon performance through tables and other visualizations. The design provides flexibility, allowing users to rearrange and prioritize sections according to their preferences.</p>
+                  <a href="imagen/proj-inner/alnassr/ald2.png" class="clickable-image-preview" target="_blank" style="
+                    height: auto;
+                    float: left;
+                    margin-bottom: 20px;">
+                    <img src="imagen/proj-inner/alnassr/ald2.png" alt="Al Nassr" class="img-fluid" style=" ">
+                  </a>
+                  <!--  -->
+                  <h6 style="margin-top: 0px;">Phrasal analysis</h6>
+                  <p>Nabd incorporates dynamic and contemporary data visualization elements, including a bubble chart for phrasal analysis. This interactive chart lets users explore real-time trending phrases and lexicons, providing a deeper understanding of the associated responses. The bubbles in the chart are categorized into positive, negative, and neutral attributes, allowing users to identify and evaluate the sentiment expressed in the responses quickly.</p>
+                  <a href="imagen/proj-inner/alnassr/ald3.png" class="clickable-image-preview" target="_blank" style="
+                    height: auto;
+                    float: left;
+                    margin-bottom: 20px;">
+                    <img src="imagen/proj-inner/alnassr/ald3.png" alt="Al Nassr" class="img-fluid" style=" ">
+                  </a>
+                  <!--  -->
+                  <h6 style="margin-top: 0px;">Lexicon profiles</h6>
+                  <p>The lexicon management menu allows users to create AI-powered lexicon profiles with ease. Currently, five profile options are available: sentiment analysis profile, behavior-based profile, topic-specific profile, custom profile, and trending profile. Users can follow a step-by-step process to set up their desired profile by selecting the data sources, entering profile details, and modeling automated sentiment categories and keywords. Once created, users can review and save the lexicon for publishing. Additionally, users can share the lexicon with their connections and schedule it for future publication.</p>
+                  <a href="imagen/proj-inner/alnassr/ald4.png" class="clickable-image-preview" target="_blank" style="
+                    height: auto;
+                    float: left;
+                    margin-bottom: 20px;">
+                    <img src="imagen/proj-inner/alnassr/ald4.png" alt="Al Nassr" class="img-fluid" style=" ">
+                  </a>
+              </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
-  </div>
-</section>
-<!--  -->
-<!--  -->
-<section class="section-leaf">
-  <div class="container">
-
-  <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <div class="side-head">
-            <h4><u>Wireframing and Prototyping</u></h4>
-          </div>
-          <div class="side-para">
-              <p>Using the information architecture as a guide, the team created wireframes and interactive prototypes of the tool's various screens. These visual representations allowed stakeholders to visualize the user interface and provided a basis for gathering feedback and refining the design.</p>  
-              <!--  -->
-              <h6 style="margin-top: 0px;">One-Click CHeckout Review:</h6>
-              <p>The one-click checkout review page is the final step in the shopping process, streamlining the user experience. It features a convenient profile selection dropdown, allowing users to pick the appropriate profile during checkout easily. The page also includes a shopping cart summary, providing a clear overview of the selected items and their pricing information. To enhance the shopping experience further, users can enter and choose promo codes, allowing them to apply discounts or special offers. With these intuitive features, the one-click checkout review page ensures users a seamless and efficient process to complete their purchases.</p>
-              <a href="imagen/proj-inner/shopee/pro-pop.png" class="clickable-image-preview" target="_blank" style="
-                height: auto;
-                float: left;
-                margin-bottom: 20px;">
-                <img src="imagen/proj-inner/shopee/pro-pop.png" alt="Shopee" class="img-fluid" style=" ">
-              </a>
-              <!--  -->
-          </div>
+    <!--  -->
+    <!--  -->
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="side-head">
+          <h4><u>Key Takeaways</u></h4>
         </div>
-        <div class="col-md-1"></div>
+        <div class="side-para">
+            <p>The team conducted iterative feedback sessions with stakeholders, including the marketing team and potential users, to gather their input and refine the design. Feedback was collected through usability testing, surveys, and one-on-one interviews. The insights gained from these sessions helped shape the final design of the Nabd.</p>  
+            <p>The tool provides Al Nassr FC's marketing team with valuable insights into fan sentiments, preferences, and opinions. By leveraging data-driven decision-making, the club can create targeted marketing campaigns, capitalize on fan attention, and enhance the overall fan experience. Through an iterative design process and continuous user feedback, the UX team ensured that the tool met the needs of both the marketing team and the diverse fan base of Al Nassr FC.</p>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
 
 
-</div>
-</section>
+
+
+
+
+
+    </div>
+    <!--  -->
+    <!--  -->
 
 
 

@@ -54,10 +54,10 @@
         </a>
       </div>
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
-        <a href="x-corschame.php" class="clickable-recents">
+        <a href="x-alnassr.php" class="clickable-recents">
           <div class="recent-homeindi">
-            <img data-aos="zoom-out-up" src="./imagen/home/corschame-april.png" class="img-fluid" alt="Corschame">
-            <h4>A sleek and intuitive mobile app designed for Corschame Holidays.</h4>
+            <img data-aos="zoom-out-up" src="./imagen/home/al-april.png" class="img-fluid" alt="Al Nassr FC">
+            <h4>Al Nassr FC aims to create "Nabd (نبض)," a Fan Sentiment Analysis tool, to understand and enhance fan experiences.</h4>
             <!-- <p>Corschame is a luxury hotel and resort chain based in the UK that operates vacation resorts all over popular European tourist spots.</p> -->
           </div>
         </a>

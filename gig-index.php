@@ -61,28 +61,16 @@
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td>Nimbus</td>
-              <td>Design Guideline</td>
-              <td>🟡</td>
-              <td class="hide-prop">2023</td>
-              <td>
-                <!-- <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?node-id=60%3A30&viewport=726%2C1311%2C0.8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=60%3A30&disable-default-keyboard-nav=1&hide-ui=1" target="_blank">
-                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
-                </a> -->
-                ⋯
-              </td>
-            </tr>
+           
             <tr>
               <td>Al Nassr FC</td>
-              <td>Content Strategy - UX</td>
-              <td>🟡</td>
+              <td>Sentiment Analysis (Case study)</td>
+              <td>🟢</td>
               <td class="hide-prop">2023</td>
               <td>
-                <!-- <a href="https://www.figma.com/proto/0j4YJ2ucy8kjkAu78YItFZ/PROJECTSAR?node-id=60%3A30&viewport=726%2C1311%2C0.8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=60%3A30&disable-default-keyboard-nav=1&hide-ui=1" target="_blank">
-                  <img src="./imagen/icons/link.svg" alt="Project URL" class="img-fluid">
-                </a> -->
-                ⋯
+                <a href="x-alnassr.php" target="_blank">
+                  <img src="./imagen/icons/description.svg" alt="Project URL" class="img-fluid">
+                </a>
               </td>
             </tr>
             <tr>
@@ -107,7 +95,7 @@
                 </a>
               </td>
             </tr>
-            <tr>
+            <!-- <tr>
               <td>Aubi</td>
               <td>WearOS (Case study)</td>
               <td>🟢</td>
@@ -117,7 +105,7 @@
                   <img src="./imagen/icons/description.svg" alt="Project URL" class="img-fluid">
                 </a>
               </td>
-            </tr>
+            </tr> -->
             <tr>
               <td>Caracal Rebranding</td>
               <td>Online Publishing</td>
@@ -151,7 +139,7 @@
                 </a>
               </td>
             </tr>
-            <tr>
+            <!-- <tr>
               <td>Rapide KDS</td>
               <td>Software Product</td>
               <td>🟢</td>
@@ -161,7 +149,7 @@
                   <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
                 </a>
               </td>
-            </tr>
+            </tr> -->
             <tr>
               <td>Blueline</td>
               <td>Educational Technology</td>
@@ -184,7 +172,7 @@
                 </a>
               </td>
             </tr>
-            <tr>
+            <!-- <tr>
               <td>SoundCloud</td>
               <td>Music Platform</td>
               <td>🟢</td>
@@ -194,7 +182,7 @@
                   <img src="./imagen/icons/description.svg" alt="Project link" class="img-fluid">
                 </a>
               </td>
-            </tr>
+            </tr> -->
             <tr>
               <td>InAppAd</td>
               <td>Adtech Platform</td>
@@ -207,7 +195,7 @@
               </td>
             </tr>
             <tr>
-              <td>Infy.T  v</td>
+              <td>Infy.Tv</td>
               <td>Adtech Platform</td>
               <td>🟢</td>
               <td class="hide-prop">2021</td>

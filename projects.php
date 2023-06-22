@@ -42,12 +42,12 @@
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="Al Nassr FC">
-          <h4>Al Nassr FC aims to develop a 'Fan Sentiment Analysis' tool to capitalize on popularity surge, gauge fan sentiments, and enhance fan experiences.</h4>
+          <h4>Al Nassr FC seeks to create "Nabd (نبض)," a Fan Sentiment Analysis tool, to leverage their growing popularity, understand fan sentiments, and improve fan experiences.</h4>
           <!-- <p></p> -->
           <ol class="breadcrumb">
-              <li class="breadcrumb-item">Data-driven decisions</li>  
+              <li class="breadcrumb-item">Fan Experiences</li>  
               <li class="breadcrumb-item">Sentiment Analysis</li>
-              <li class="breadcrumb-item">Adobe XD</li>
+              <li class="breadcrumb-item">Marketing Insights</li>
           </ol>
           <a href="x-alnassr.php" class="btn-naked position-relative">explore case study</a>
         </div>
