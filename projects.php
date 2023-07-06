@@ -42,7 +42,7 @@
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/al-april.png" class="img-fluid" alt="Al Nassr FC">
-          <h4>Al Nassr FC seeks to create "Nabd (نبض)," a Fan Sentiment Analysis tool, to leverage their growing popularity, understand fan sentiments, and improve fan experiences.</h4>
+          <h4>Al Nassr FC seeks to create "Nabd (نبض)" a Fan Sentiment Analysis tool, to leverage their growing popularity, understand fan sentiments, and improve fan experiences.</h4>
           <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">Fan Experiences</li>  
@@ -131,7 +131,7 @@
         </div>
       </div>
       <!--  -->
-      <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
+      <!-- <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/sc-april.png" class="img-fluid" alt="Nimbus">
           <h4>Investigating the integration of gamification to incentivize engagement and community building.</h4>
@@ -144,12 +144,10 @@
           <a style="color: #ccc;" class="disabled">Coming soon..</a>
         </div>
       </div>
-      <!--  -->
       <div class="col-md-6" data-aos="fade-up" data-aos-duration="2000">
         <div class="projindi-grid22">
           <img src="./imagen/project-main/ash-april.png" class="img-fluid" alt="Ashgabat">
           <h4>Ashgabat is a lightweight WordPress template specifically crafted for agency websites.</h4>
-          <!-- <p></p> -->
           <ol class="breadcrumb">
               <li class="breadcrumb-item">WordPress Development</li>  
               <li class="breadcrumb-item">Website Design</li>
@@ -157,7 +155,9 @@
           </ol>
           <a href="302.php" class="btn-naked position-relative">Download Theme</a>
         </div>
-      </div>
+      </div> -->
+      <!--  -->
+      <!--  -->
       <!--  -->
       <!-- <div class="col-md-6" data-aos="fade-up" data-aos-duration="3000">
         <div class="projindi-grid22">
